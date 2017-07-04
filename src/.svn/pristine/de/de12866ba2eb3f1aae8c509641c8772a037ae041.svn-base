@@ -1,0 +1,64 @@
+{
+  "remark":"委托信息数据-卖五买五",
+  "data": {
+    "BuyList": [
+      {
+        "Price": 0.0144,
+        "Number": 1700
+      },
+      {
+        "Price": 0.01438,
+        "Number": 400
+      },
+      {
+        "Price": 0.01437,
+        "Number": 8100
+      },
+      {
+        "Price": 0.01436,
+        "Number": 6900
+      },
+      {
+        "Price": 0.01435,
+        "Number": 50000
+      }
+    ],
+    "SaleList": [
+      {
+        "Price": 0.01444,
+        "Number": 2100
+      },
+      {
+        "Price": 0.01445,
+        "Number": 1123300
+      },
+      {
+        "Price": 0.01446,
+        "Number": 855100
+      },
+      {
+        "Price": 0.01467,
+        "Number": 50000
+      },
+      {
+        "Price": 0.01469,
+        "Number": 1705300
+      }
+    ],
+    "MarketInfo": {
+      "ProductId": 30099,
+      "ProductName": "种子",
+      "ProductCode": "800001",
+      "IncreaseRate": 0.02049469964664311,
+      "Increase": 0.00029,
+      "Price": 0.01444,
+      "OpenPrice": 0.01415,
+      "HighestPrice": 0.01445,
+      "LowestPrice": 0.01415,
+      "LimitUp": 0.01445,
+      "LimitDown": 0.01385,
+      "Volume": 5795500,
+      "ProductImage": null
+    }
+  }
+}

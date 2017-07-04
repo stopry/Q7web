@@ -1,0 +1,2891 @@
+{
+  "data": {
+    "KLineList": [
+      {
+        "Date": 1473350400,
+        "OpeningPrice": 0.01,
+        "ClosingPrice": 0.0103,
+        "HighestPrice": 0.0103,
+        "LowestPrice": 0.01,
+        "Volume": 518700,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.03
+      },
+      {
+        "Date": 1473436800,
+        "OpeningPrice": 0.0103,
+        "ClosingPrice": 0.0106,
+        "HighestPrice": 0.0106,
+        "LowestPrice": 0.0103,
+        "Volume": 443300,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.02912621359223301
+      },
+      {
+        "Date": 1473523200,
+        "OpeningPrice": 0.0106,
+        "ClosingPrice": 0.0109,
+        "HighestPrice": 0.0109,
+        "LowestPrice": 0.0106,
+        "Volume": 627300,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.028301886792452827
+      },
+      {
+        "Date": 1473609600,
+        "OpeningPrice": 0.0109,
+        "ClosingPrice": 0.01111,
+        "HighestPrice": 0.0112,
+        "LowestPrice": 0.0109,
+        "Volume": 1283300,
+        "ChangePrice": 0.00021,
+        "ChangeRate": 0.019266055045871557
+      },
+      {
+        "Date": 1473696000,
+        "OpeningPrice": 0.01111,
+        "ClosingPrice": 0.0112,
+        "HighestPrice": 0.0114,
+        "LowestPrice": 0.011,
+        "Volume": 2448800,
+        "ChangePrice": 0.00009,
+        "ChangeRate": 0.008100810081008101
+      },
+      {
+        "Date": 1473782400,
+        "OpeningPrice": 0.0112,
+        "ClosingPrice": 0.01123,
+        "HighestPrice": 0.01123,
+        "LowestPrice": 0.01119,
+        "Volume": 3017300,
+        "ChangePrice": 0.00003,
+        "ChangeRate": 0.0026785714285714286
+      },
+      {
+        "Date": 1473868800,
+        "OpeningPrice": 0.01123,
+        "ClosingPrice": 0.01126,
+        "HighestPrice": 0.01126,
+        "LowestPrice": 0.01123,
+        "Volume": 7838200,
+        "ChangePrice": 0.00003,
+        "ChangeRate": 0.0026714158504007124
+      },
+      {
+        "Date": 1473955200,
+        "OpeningPrice": 0.01126,
+        "ClosingPrice": 0.01156,
+        "HighestPrice": 0.01156,
+        "LowestPrice": 0.01126,
+        "Volume": 2685800,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.02664298401420959
+      },
+      {
+        "Date": 1474041600,
+        "OpeningPrice": 0.01156,
+        "ClosingPrice": 0.01173,
+        "HighestPrice": 0.01186,
+        "LowestPrice": 0.01156,
+        "Volume": 2649500,
+        "ChangePrice": 0.00017,
+        "ChangeRate": 0.014705882352941178
+      },
+      {
+        "Date": 1474128000,
+        "OpeningPrice": 0.01173,
+        "ClosingPrice": 0.01181,
+        "HighestPrice": 0.01181,
+        "LowestPrice": 0.0116,
+        "Volume": 3133400,
+        "ChangePrice": 0.00008,
+        "ChangeRate": 0.0068201193520886615
+      },
+      {
+        "Date": 1474214400,
+        "OpeningPrice": 0.01181,
+        "ClosingPrice": 0.01185,
+        "HighestPrice": 0.01185,
+        "LowestPrice": 0.01157,
+        "Volume": 3083700,
+        "ChangePrice": 0.00004,
+        "ChangeRate": 0.003386960203217612
+      },
+      {
+        "Date": 1474300800,
+        "OpeningPrice": 0.01185,
+        "ClosingPrice": 0.01189,
+        "HighestPrice": 0.012,
+        "LowestPrice": 0.01165,
+        "Volume": 2296200,
+        "ChangePrice": 0.00004,
+        "ChangeRate": 0.0033755274261603376
+      },
+      {
+        "Date": 1474387200,
+        "OpeningPrice": 0.01189,
+        "ClosingPrice": 0.01195,
+        "HighestPrice": 0.01219,
+        "LowestPrice": 0.01164,
+        "Volume": 2912800,
+        "ChangePrice": 0.00006,
+        "ChangeRate": 0.005046257359125316
+      },
+      {
+        "Date": 1474473600,
+        "OpeningPrice": 0.01195,
+        "ClosingPrice": 0.01165,
+        "HighestPrice": 0.01225,
+        "LowestPrice": 0.01165,
+        "Volume": 1388000,
+        "ChangePrice": -0.0003,
+        "ChangeRate": -0.02510460251046025
+      },
+      {
+        "Date": 1474560000,
+        "OpeningPrice": 0.01165,
+        "ClosingPrice": 0.01186,
+        "HighestPrice": 0.01195,
+        "LowestPrice": 0.01155,
+        "Volume": 2174900,
+        "ChangePrice": 0.00021,
+        "ChangeRate": 0.018025751072961373
+      },
+      {
+        "Date": 1474646400,
+        "OpeningPrice": 0.01186,
+        "ClosingPrice": 0.01188,
+        "HighestPrice": 0.01189,
+        "LowestPrice": 0.01161,
+        "Volume": 1997700,
+        "ChangePrice": 0.00002,
+        "ChangeRate": 0.0016863406408094436
+      },
+      {
+        "Date": 1474732800,
+        "OpeningPrice": 0.01188,
+        "ClosingPrice": 0.01158,
+        "HighestPrice": 0.01188,
+        "LowestPrice": 0.01158,
+        "Volume": 2376200,
+        "ChangePrice": -0.0003,
+        "ChangeRate": -0.025252525252525252
+      },
+      {
+        "Date": 1474819200,
+        "OpeningPrice": 0.01158,
+        "ClosingPrice": 0.01188,
+        "HighestPrice": 0.01188,
+        "LowestPrice": 0.01154,
+        "Volume": 15052200,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.02590673575129534
+      },
+      {
+        "Date": 1474905600,
+        "OpeningPrice": 0.01188,
+        "ClosingPrice": 0.01218,
+        "HighestPrice": 0.01218,
+        "LowestPrice": 0.01188,
+        "Volume": 1290700,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.025252525252525252
+      },
+      {
+        "Date": 1474992000,
+        "OpeningPrice": 0.01218,
+        "ClosingPrice": 0.01222,
+        "HighestPrice": 0.01248,
+        "LowestPrice": 0.012,
+        "Volume": 1020800,
+        "ChangePrice": 0.00004,
+        "ChangeRate": 0.003284072249589491
+      },
+      {
+        "Date": 1475078400,
+        "OpeningPrice": 0.01222,
+        "ClosingPrice": 0.0125,
+        "HighestPrice": 0.01252,
+        "LowestPrice": 0.01192,
+        "Volume": 1232600,
+        "ChangePrice": 0.00028,
+        "ChangeRate": 0.022913256955810146
+      },
+      {
+        "Date": 1475164800,
+        "OpeningPrice": 0.0125,
+        "ClosingPrice": 0.0128,
+        "HighestPrice": 0.0128,
+        "LowestPrice": 0.0122,
+        "Volume": 973200,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.024
+      },
+      {
+        "Date": 1475251200,
+        "OpeningPrice": 0.0128,
+        "ClosingPrice": 0.0125,
+        "HighestPrice": 0.0131,
+        "LowestPrice": 0.0125,
+        "Volume": 902300,
+        "ChangePrice": -0.0003,
+        "ChangeRate": -0.0234375
+      },
+      {
+        "Date": 1475337600,
+        "OpeningPrice": 0.0125,
+        "ClosingPrice": 0.01241,
+        "HighestPrice": 0.0128,
+        "LowestPrice": 0.0122,
+        "Volume": 853200,
+        "ChangePrice": -0.00009,
+        "ChangeRate": -0.0072
+      },
+      {
+        "Date": 1475424000,
+        "OpeningPrice": 0.01241,
+        "ClosingPrice": 0.01246,
+        "HighestPrice": 0.01271,
+        "LowestPrice": 0.0123,
+        "Volume": 1126600,
+        "ChangePrice": 0.00005,
+        "ChangeRate": 0.004029008863819501
+      },
+      {
+        "Date": 1475510400,
+        "OpeningPrice": 0.01246,
+        "ClosingPrice": 0.01255,
+        "HighestPrice": 0.01276,
+        "LowestPrice": 0.01225,
+        "Volume": 1263500,
+        "ChangePrice": 0.00009,
+        "ChangeRate": 0.0072231139646869984
+      },
+      {
+        "Date": 1475596800,
+        "OpeningPrice": 0.01255,
+        "ClosingPrice": 0.01275,
+        "HighestPrice": 0.01276,
+        "LowestPrice": 0.01225,
+        "Volume": 745000,
+        "ChangePrice": 0.0002,
+        "ChangeRate": 0.01593625498007968
+      },
+      {
+        "Date": 1475683200,
+        "OpeningPrice": 0.01275,
+        "ClosingPrice": 0.01275,
+        "HighestPrice": 0.01276,
+        "LowestPrice": 0.01245,
+        "Volume": 702700,
+        "ChangePrice": 0,
+        "ChangeRate": 0
+      },
+      {
+        "Date": 1475769600,
+        "OpeningPrice": 0.01275,
+        "ClosingPrice": 0.01286,
+        "HighestPrice": 0.01305,
+        "LowestPrice": 0.01245,
+        "Volume": 686300,
+        "ChangePrice": 0.00011,
+        "ChangeRate": 0.008627450980392156
+      },
+      {
+        "Date": 1475856000,
+        "OpeningPrice": 0.01286,
+        "ClosingPrice": 0.01275,
+        "HighestPrice": 0.01316,
+        "LowestPrice": 0.01272,
+        "Volume": 773100,
+        "ChangePrice": -0.00011,
+        "ChangeRate": -0.008553654743390359
+      },
+      {
+        "Date": 1475942400,
+        "OpeningPrice": 0.01275,
+        "ClosingPrice": 0.01305,
+        "HighestPrice": 0.01305,
+        "LowestPrice": 0.01247,
+        "Volume": 729700,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.023529411764705882
+      },
+      {
+        "Date": 1476028800,
+        "OpeningPrice": 0.01305,
+        "ClosingPrice": 0.01335,
+        "HighestPrice": 0.01335,
+        "LowestPrice": 0.013,
+        "Volume": 1104200,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.022988505747126436
+      },
+      {
+        "Date": 1476115200,
+        "OpeningPrice": 0.01335,
+        "ClosingPrice": 0.0135,
+        "HighestPrice": 0.01365,
+        "LowestPrice": 0.01319,
+        "Volume": 583900,
+        "ChangePrice": 0.00015,
+        "ChangeRate": 0.011235955056179777
+      },
+      {
+        "Date": 1476201600,
+        "OpeningPrice": 0.0135,
+        "ClosingPrice": 0.01351,
+        "HighestPrice": 0.0138,
+        "LowestPrice": 0.0135,
+        "Volume": 889300,
+        "ChangePrice": 0.00001,
+        "ChangeRate": 0.0007407407407407407
+      },
+      {
+        "Date": 1476288000,
+        "OpeningPrice": 0.01351,
+        "ClosingPrice": 0.01381,
+        "HighestPrice": 0.01381,
+        "LowestPrice": 0.0135,
+        "Volume": 1295900,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.022205773501110287
+      },
+      {
+        "Date": 1476374400,
+        "OpeningPrice": 0.01381,
+        "ClosingPrice": 0.01357,
+        "HighestPrice": 0.01411,
+        "LowestPrice": 0.01351,
+        "Volume": 563900,
+        "ChangePrice": -0.00024,
+        "ChangeRate": -0.017378711078928313
+      },
+      {
+        "Date": 1476460800,
+        "OpeningPrice": 0.01357,
+        "ClosingPrice": 0.0136,
+        "HighestPrice": 0.01387,
+        "LowestPrice": 0.01348,
+        "Volume": 1083700,
+        "ChangePrice": 0.00003,
+        "ChangeRate": 0.002210759027266028
+      },
+      {
+        "Date": 1476547200,
+        "OpeningPrice": 0.0136,
+        "ClosingPrice": 0.0139,
+        "HighestPrice": 0.0139,
+        "LowestPrice": 0.0133,
+        "Volume": 581600,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.022058823529411763
+      },
+      {
+        "Date": 1476633600,
+        "OpeningPrice": 0.0139,
+        "ClosingPrice": 0.01363,
+        "HighestPrice": 0.0142,
+        "LowestPrice": 0.0136,
+        "Volume": 692200,
+        "ChangePrice": -0.00027,
+        "ChangeRate": -0.019424460431654675
+      },
+      {
+        "Date": 1476720000,
+        "OpeningPrice": 0.01363,
+        "ClosingPrice": 0.01393,
+        "HighestPrice": 0.01393,
+        "LowestPrice": 0.01351,
+        "Volume": 575700,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.022010271460014674
+      },
+      {
+        "Date": 1476806400,
+        "OpeningPrice": 0.01393,
+        "ClosingPrice": 0.01395,
+        "HighestPrice": 0.014,
+        "LowestPrice": 0.0138,
+        "Volume": 1862100,
+        "ChangePrice": 0.00002,
+        "ChangeRate": 0.0014357501794687725
+      },
+      {
+        "Date": 1476892800,
+        "OpeningPrice": 0.01395,
+        "ClosingPrice": 0.01386,
+        "HighestPrice": 0.0142,
+        "LowestPrice": 0.01386,
+        "Volume": 496200,
+        "ChangePrice": -0.00009,
+        "ChangeRate": -0.0064516129032258064
+      },
+      {
+        "Date": 1476979200,
+        "OpeningPrice": 0.01386,
+        "ClosingPrice": 0.01416,
+        "HighestPrice": 0.01416,
+        "LowestPrice": 0.01386,
+        "Volume": 353900,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.021645021645021644
+      },
+      {
+        "Date": 1477065600,
+        "OpeningPrice": 0.01416,
+        "ClosingPrice": 0.01446,
+        "HighestPrice": 0.01446,
+        "LowestPrice": 0.0139,
+        "Volume": 561900,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.0211864406779661
+      },
+      {
+        "Date": 1477152000,
+        "OpeningPrice": 0.01446,
+        "ClosingPrice": 0.01475,
+        "HighestPrice": 0.01476,
+        "LowestPrice": 0.01416,
+        "Volume": 417100,
+        "ChangePrice": 0.00029,
+        "ChangeRate": 0.020055325034578148
+      },
+      {
+        "Date": 1477238400,
+        "OpeningPrice": 0.01475,
+        "ClosingPrice": 0.01476,
+        "HighestPrice": 0.01504,
+        "LowestPrice": 0.01445,
+        "Volume": 438300,
+        "ChangePrice": 0.00001,
+        "ChangeRate": 0.0006779661016949152
+      },
+      {
+        "Date": 1477324800,
+        "OpeningPrice": 0.01476,
+        "ClosingPrice": 0.01446,
+        "HighestPrice": 0.01505,
+        "LowestPrice": 0.01446,
+        "Volume": 490300,
+        "ChangePrice": -0.0003,
+        "ChangeRate": -0.02032520325203252
+      },
+      {
+        "Date": 1477411200,
+        "OpeningPrice": 0.01446,
+        "ClosingPrice": 0.01445,
+        "HighestPrice": 0.01446,
+        "LowestPrice": 0.01422,
+        "Volume": 399500,
+        "ChangePrice": -0.00001,
+        "ChangeRate": -0.0006915629322268326
+      },
+      {
+        "Date": 1477497600,
+        "OpeningPrice": 0.01445,
+        "ClosingPrice": 0.01415,
+        "HighestPrice": 0.01445,
+        "LowestPrice": 0.01415,
+        "Volume": 503400,
+        "ChangePrice": -0.0003,
+        "ChangeRate": -0.020761245674740483
+      },
+      {
+        "Date": 1477584000,
+        "OpeningPrice": 0.01415,
+        "ClosingPrice": 0.01442,
+        "HighestPrice": 0.01444,
+        "LowestPrice": 0.01395,
+        "Volume": 568800,
+        "ChangePrice": 0.00027,
+        "ChangeRate": 0.019081272084805655
+      },
+      {
+        "Date": 1477670400,
+        "OpeningPrice": 0.01442,
+        "ClosingPrice": 0.01412,
+        "HighestPrice": 0.01446,
+        "LowestPrice": 0.01412,
+        "Volume": 543500,
+        "ChangePrice": -0.0003,
+        "ChangeRate": -0.020804438280166437
+      },
+      {
+        "Date": 1477756800,
+        "OpeningPrice": 0.01412,
+        "ClosingPrice": 0.01442,
+        "HighestPrice": 0.01442,
+        "LowestPrice": 0.01385,
+        "Volume": 1832500,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.021246458923512748
+      },
+      {
+        "Date": 1477843200,
+        "OpeningPrice": 0.01442,
+        "ClosingPrice": 0.01412,
+        "HighestPrice": 0.01442,
+        "LowestPrice": 0.01412,
+        "Volume": 753600,
+        "ChangePrice": -0.0003,
+        "ChangeRate": -0.020804438280166437
+      },
+      {
+        "Date": 1477929600,
+        "OpeningPrice": 0.01412,
+        "ClosingPrice": 0.01442,
+        "HighestPrice": 0.01442,
+        "LowestPrice": 0.01383,
+        "Volume": 2317700,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.021246458923512748
+      },
+      {
+        "Date": 1478016000,
+        "OpeningPrice": 0.01442,
+        "ClosingPrice": 0.01472,
+        "HighestPrice": 0.01472,
+        "LowestPrice": 0.01442,
+        "Volume": 1821000,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.020804438280166437
+      },
+      {
+        "Date": 1478102400,
+        "OpeningPrice": 0.01472,
+        "ClosingPrice": 0.01467,
+        "HighestPrice": 0.01475,
+        "LowestPrice": 0.0146,
+        "Volume": 469500,
+        "ChangePrice": -0.00005,
+        "ChangeRate": -0.0033967391304347825
+      },
+      {
+        "Date": 1478188800,
+        "OpeningPrice": 0.01467,
+        "ClosingPrice": 0.01467,
+        "HighestPrice": 0.01467,
+        "LowestPrice": 0.01455,
+        "Volume": 1285000,
+        "ChangePrice": 0,
+        "ChangeRate": 0
+      },
+      {
+        "Date": 1478275200,
+        "OpeningPrice": 0.01467,
+        "ClosingPrice": 0.0148,
+        "HighestPrice": 0.01481,
+        "LowestPrice": 0.01455,
+        "Volume": 8790600,
+        "ChangePrice": 0.00013,
+        "ChangeRate": 0.008861622358554873
+      },
+      {
+        "Date": 1478361600,
+        "OpeningPrice": 0.0148,
+        "ClosingPrice": 0.0151,
+        "HighestPrice": 0.0151,
+        "LowestPrice": 0.0147,
+        "Volume": 15715100,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.020270270270270268
+      },
+      {
+        "Date": 1478448000,
+        "OpeningPrice": 0.0151,
+        "ClosingPrice": 0.0154,
+        "HighestPrice": 0.0154,
+        "LowestPrice": 0.01484,
+        "Volume": 969700,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.019867549668874173
+      },
+      {
+        "Date": 1478534400,
+        "OpeningPrice": 0.0154,
+        "ClosingPrice": 0.0157,
+        "HighestPrice": 0.0157,
+        "LowestPrice": 0.0154,
+        "Volume": 2476600,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01948051948051948
+      },
+      {
+        "Date": 1478620800,
+        "OpeningPrice": 0.0157,
+        "ClosingPrice": 0.0157,
+        "HighestPrice": 0.0157,
+        "LowestPrice": 0.01541,
+        "Volume": 2526900,
+        "ChangePrice": 0,
+        "ChangeRate": 0
+      },
+      {
+        "Date": 1478707200,
+        "OpeningPrice": 0.0157,
+        "ClosingPrice": 0.01592,
+        "HighestPrice": 0.016,
+        "LowestPrice": 0.0154,
+        "Volume": 4198100,
+        "ChangePrice": 0.00022,
+        "ChangeRate": 0.014012738853503183
+      },
+      {
+        "Date": 1478793600,
+        "OpeningPrice": 0.01592,
+        "ClosingPrice": 0.0161,
+        "HighestPrice": 0.01622,
+        "LowestPrice": 0.01562,
+        "Volume": 5933700,
+        "ChangePrice": 0.00018,
+        "ChangeRate": 0.011306532663316582
+      },
+      {
+        "Date": 1478880000,
+        "OpeningPrice": 0.0161,
+        "ClosingPrice": 0.01582,
+        "HighestPrice": 0.0164,
+        "LowestPrice": 0.0158,
+        "Volume": 5234800,
+        "ChangePrice": -0.00028,
+        "ChangeRate": -0.017391304347826087
+      },
+      {
+        "Date": 1478966400,
+        "OpeningPrice": 0.01582,
+        "ClosingPrice": 0.01612,
+        "HighestPrice": 0.01612,
+        "LowestPrice": 0.01562,
+        "Volume": 2890100,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01896333754740834
+      },
+      {
+        "Date": 1479052800,
+        "OpeningPrice": 0.01612,
+        "ClosingPrice": 0.01582,
+        "HighestPrice": 0.0164,
+        "LowestPrice": 0.01582,
+        "Volume": 4295800,
+        "ChangePrice": -0.0003,
+        "ChangeRate": -0.018610421836228287
+      },
+      {
+        "Date": 1479139200,
+        "OpeningPrice": 0.01582,
+        "ClosingPrice": 0.01597,
+        "HighestPrice": 0.01612,
+        "LowestPrice": 0.0156,
+        "Volume": 3181100,
+        "ChangePrice": 0.00015,
+        "ChangeRate": 0.00948166877370417
+      },
+      {
+        "Date": 1479225600,
+        "OpeningPrice": 0.01597,
+        "ClosingPrice": 0.01591,
+        "HighestPrice": 0.0161,
+        "LowestPrice": 0.0159,
+        "Volume": 4561200,
+        "ChangePrice": -0.00006,
+        "ChangeRate": -0.003757044458359424
+      },
+      {
+        "Date": 1479312000,
+        "OpeningPrice": 0.01591,
+        "ClosingPrice": 0.01595,
+        "HighestPrice": 0.01621,
+        "LowestPrice": 0.01561,
+        "Volume": 4099300,
+        "ChangePrice": 0.00004,
+        "ChangeRate": 0.00251414204902577
+      },
+      {
+        "Date": 1479398400,
+        "OpeningPrice": 0.01595,
+        "ClosingPrice": 0.0159,
+        "HighestPrice": 0.01625,
+        "LowestPrice": 0.01565,
+        "Volume": 4782700,
+        "ChangePrice": -0.00005,
+        "ChangeRate": -0.003134796238244514
+      },
+      {
+        "Date": 1479484800,
+        "OpeningPrice": 0.0159,
+        "ClosingPrice": 0.01618,
+        "HighestPrice": 0.0162,
+        "LowestPrice": 0.0157,
+        "Volume": 3917800,
+        "ChangePrice": 0.00028,
+        "ChangeRate": 0.01761006289308176
+      },
+      {
+        "Date": 1479571200,
+        "OpeningPrice": 0.01618,
+        "ClosingPrice": 0.01648,
+        "HighestPrice": 0.01648,
+        "LowestPrice": 0.01588,
+        "Volume": 4245800,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01854140914709518
+      },
+      {
+        "Date": 1479657600,
+        "OpeningPrice": 0.01648,
+        "ClosingPrice": 0.01618,
+        "HighestPrice": 0.01678,
+        "LowestPrice": 0.01618,
+        "Volume": 4682300,
+        "ChangePrice": -0.0003,
+        "ChangeRate": -0.018203883495145633
+      },
+      {
+        "Date": 1479744000,
+        "OpeningPrice": 0.01618,
+        "ClosingPrice": 0.016,
+        "HighestPrice": 0.01648,
+        "LowestPrice": 0.01588,
+        "Volume": 4539500,
+        "ChangePrice": -0.00018,
+        "ChangeRate": -0.011124845488257108
+      },
+      {
+        "Date": 1479830400,
+        "OpeningPrice": 0.016,
+        "ClosingPrice": 0.016,
+        "HighestPrice": 0.0163,
+        "LowestPrice": 0.01596,
+        "Volume": 3943800,
+        "ChangePrice": 0,
+        "ChangeRate": 0
+      },
+      {
+        "Date": 1479916800,
+        "OpeningPrice": 0.016,
+        "ClosingPrice": 0.0163,
+        "HighestPrice": 0.0163,
+        "LowestPrice": 0.01599,
+        "Volume": 3927200,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01875
+      },
+      {
+        "Date": 1480003200,
+        "OpeningPrice": 0.0163,
+        "ClosingPrice": 0.01612,
+        "HighestPrice": 0.0166,
+        "LowestPrice": 0.01612,
+        "Volume": 4398300,
+        "ChangePrice": -0.00018,
+        "ChangeRate": -0.011042944785276074
+      },
+      {
+        "Date": 1480089600,
+        "OpeningPrice": 0.01612,
+        "ClosingPrice": 0.01582,
+        "HighestPrice": 0.01642,
+        "LowestPrice": 0.01582,
+        "Volume": 4005400,
+        "ChangePrice": -0.0003,
+        "ChangeRate": -0.018610421836228287
+      },
+      {
+        "Date": 1480176000,
+        "OpeningPrice": 0.01582,
+        "ClosingPrice": 0.0157,
+        "HighestPrice": 0.01612,
+        "LowestPrice": 0.0157,
+        "Volume": 3540000,
+        "ChangePrice": -0.00012,
+        "ChangeRate": -0.007585335018963337
+      },
+      {
+        "Date": 1480262400,
+        "OpeningPrice": 0.01561,
+        "ClosingPrice": 0.01552,
+        "HighestPrice": 0.01591,
+        "LowestPrice": 0.01552,
+        "Volume": 3362800,
+        "ChangePrice": -0.00009,
+        "ChangeRate": -0.005765534913516976
+      },
+      {
+        "Date": 1480348800,
+        "OpeningPrice": 0.01552,
+        "ClosingPrice": 0.01522,
+        "HighestPrice": 0.01582,
+        "LowestPrice": 0.01522,
+        "Volume": 2984600,
+        "ChangePrice": -0.0003,
+        "ChangeRate": -0.019329896907216496
+      },
+      {
+        "Date": 1480435200,
+        "OpeningPrice": 0.01522,
+        "ClosingPrice": 0.01552,
+        "HighestPrice": 0.01552,
+        "LowestPrice": 0.01522,
+        "Volume": 2659300,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01971090670170828
+      },
+      {
+        "Date": 1480521600,
+        "OpeningPrice": 0.01552,
+        "ClosingPrice": 0.01582,
+        "HighestPrice": 0.01582,
+        "LowestPrice": 0.01552,
+        "Volume": 2704200,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.019329896907216496
+      },
+      {
+        "Date": 1480608000,
+        "OpeningPrice": 0.01582,
+        "ClosingPrice": 0.016,
+        "HighestPrice": 0.01612,
+        "LowestPrice": 0.01582,
+        "Volume": 3935500,
+        "ChangePrice": 0.00018,
+        "ChangeRate": 0.011378002528445006
+      },
+      {
+        "Date": 1480694400,
+        "OpeningPrice": 0.016,
+        "ClosingPrice": 0.01607,
+        "HighestPrice": 0.0163,
+        "LowestPrice": 0.016,
+        "Volume": 4704700,
+        "ChangePrice": 0.00007,
+        "ChangeRate": 0.004375
+      },
+      {
+        "Date": 1480780800,
+        "OpeningPrice": 0.01607,
+        "ClosingPrice": 0.01631,
+        "HighestPrice": 0.01637,
+        "LowestPrice": 0.01607,
+        "Volume": 5376500,
+        "ChangePrice": 0.00024,
+        "ChangeRate": 0.014934660858743
+      },
+      {
+        "Date": 1480867200,
+        "OpeningPrice": 0.01631,
+        "ClosingPrice": 0.01651,
+        "HighestPrice": 0.01661,
+        "LowestPrice": 0.01601,
+        "Volume": 6208800,
+        "ChangePrice": 0.0002,
+        "ChangeRate": 0.012262415695892091
+      },
+      {
+        "Date": 1480953600,
+        "OpeningPrice": 0.01651,
+        "ClosingPrice": 0.01621,
+        "HighestPrice": 0.01678,
+        "LowestPrice": 0.01621,
+        "Volume": 7137200,
+        "ChangePrice": -0.0003,
+        "ChangeRate": -0.018170805572380374
+      },
+      {
+        "Date": 1481040000,
+        "OpeningPrice": 0.01621,
+        "ClosingPrice": 0.0165,
+        "HighestPrice": 0.01651,
+        "LowestPrice": 0.01621,
+        "Volume": 4971800,
+        "ChangePrice": 0.00029,
+        "ChangeRate": 0.017890191239975324
+      },
+      {
+        "Date": 1481126400,
+        "OpeningPrice": 0.0165,
+        "ClosingPrice": 0.01629,
+        "HighestPrice": 0.0168,
+        "LowestPrice": 0.0162,
+        "Volume": 5774300,
+        "ChangePrice": -0.00021,
+        "ChangeRate": -0.012727272727272726
+      },
+      {
+        "Date": 1481212800,
+        "OpeningPrice": 0.01629,
+        "ClosingPrice": 0.0165,
+        "HighestPrice": 0.01659,
+        "LowestPrice": 0.01599,
+        "Volume": 827100,
+        "ChangePrice": 0.00021,
+        "ChangeRate": 0.01289134438305709
+      },
+      {
+        "Date": 1481299200,
+        "OpeningPrice": 0.0165,
+        "ClosingPrice": 0.01621,
+        "HighestPrice": 0.0168,
+        "LowestPrice": 0.0162,
+        "Volume": 1566200,
+        "ChangePrice": -0.00029,
+        "ChangeRate": -0.017575757575757574
+      },
+      {
+        "Date": 1481385600,
+        "OpeningPrice": 0.01621,
+        "ClosingPrice": 0.01592,
+        "HighestPrice": 0.01651,
+        "LowestPrice": 0.01591,
+        "Volume": 9354500,
+        "ChangePrice": -0.00029,
+        "ChangeRate": -0.017890191239975324
+      },
+      {
+        "Date": 1481472000,
+        "OpeningPrice": 0.01592,
+        "ClosingPrice": 0.01562,
+        "HighestPrice": 0.01622,
+        "LowestPrice": 0.01562,
+        "Volume": 3919900,
+        "ChangePrice": -0.0003,
+        "ChangeRate": -0.01884422110552764
+      },
+      {
+        "Date": 1481558400,
+        "OpeningPrice": 0.01562,
+        "ClosingPrice": 0.01592,
+        "HighestPrice": 0.01592,
+        "LowestPrice": 0.01532,
+        "Volume": 2550700,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01920614596670935
+      },
+      {
+        "Date": 1481644800,
+        "OpeningPrice": 0.01592,
+        "ClosingPrice": 0.01622,
+        "HighestPrice": 0.01622,
+        "LowestPrice": 0.01562,
+        "Volume": 616500,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01884422110552764
+      },
+      {
+        "Date": 1481731200,
+        "OpeningPrice": 0.01622,
+        "ClosingPrice": 0.01652,
+        "HighestPrice": 0.01652,
+        "LowestPrice": 0.01592,
+        "Volume": 983400,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.018495684340320593
+      },
+      {
+        "Date": 1481817600,
+        "OpeningPrice": 0.01652,
+        "ClosingPrice": 0.01632,
+        "HighestPrice": 0.01682,
+        "LowestPrice": 0.01622,
+        "Volume": 882700,
+        "ChangePrice": -0.0002,
+        "ChangeRate": -0.012106537530266344
+      },
+      {
+        "Date": 1481904000,
+        "OpeningPrice": 0.01632,
+        "ClosingPrice": 0.01662,
+        "HighestPrice": 0.01662,
+        "LowestPrice": 0.01632,
+        "Volume": 942100,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01838235294117647
+      },
+      {
+        "Date": 1481990400,
+        "OpeningPrice": 0.01662,
+        "ClosingPrice": 0.01635,
+        "HighestPrice": 0.01692,
+        "LowestPrice": 0.01633,
+        "Volume": 1089600,
+        "ChangePrice": -0.00027,
+        "ChangeRate": -0.016245487364620937
+      },
+      {
+        "Date": 1482076800,
+        "OpeningPrice": 0.01635,
+        "ClosingPrice": 0.01606,
+        "HighestPrice": 0.01665,
+        "LowestPrice": 0.01606,
+        "Volume": 932200,
+        "ChangePrice": -0.00029,
+        "ChangeRate": -0.017737003058103974
+      },
+      {
+        "Date": 1482163200,
+        "OpeningPrice": 0.01606,
+        "ClosingPrice": 0.0158,
+        "HighestPrice": 0.01636,
+        "LowestPrice": 0.0158,
+        "Volume": 1667700,
+        "ChangePrice": -0.00026,
+        "ChangeRate": -0.016189290161892904
+      },
+      {
+        "Date": 1482249600,
+        "OpeningPrice": 0.0158,
+        "ClosingPrice": 0.01584,
+        "HighestPrice": 0.0161,
+        "LowestPrice": 0.0158,
+        "Volume": 1193100,
+        "ChangePrice": 0.00004,
+        "ChangeRate": 0.002531645569620253
+      },
+      {
+        "Date": 1482336000,
+        "OpeningPrice": 0.01584,
+        "ClosingPrice": 0.01614,
+        "HighestPrice": 0.01614,
+        "LowestPrice": 0.01584,
+        "Volume": 1212100,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01893939393939394
+      },
+      {
+        "Date": 1482422400,
+        "OpeningPrice": 0.01614,
+        "ClosingPrice": 0.01592,
+        "HighestPrice": 0.01643,
+        "LowestPrice": 0.0159,
+        "Volume": 1344800,
+        "ChangePrice": -0.00022,
+        "ChangeRate": -0.013630731102850062
+      },
+      {
+        "Date": 1482508800,
+        "OpeningPrice": 0.01592,
+        "ClosingPrice": 0.01588,
+        "HighestPrice": 0.01622,
+        "LowestPrice": 0.01583,
+        "Volume": 1061300,
+        "ChangePrice": -0.00004,
+        "ChangeRate": -0.002512562814070352
+      },
+      {
+        "Date": 1482595200,
+        "OpeningPrice": 0.01588,
+        "ClosingPrice": 0.01618,
+        "HighestPrice": 0.01618,
+        "LowestPrice": 0.01588,
+        "Volume": 695600,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01889168765743073
+      },
+      {
+        "Date": 1482681600,
+        "OpeningPrice": 0.01618,
+        "ClosingPrice": 0.01594,
+        "HighestPrice": 0.01648,
+        "LowestPrice": 0.01589,
+        "Volume": 13368600,
+        "ChangePrice": -0.00024,
+        "ChangeRate": -0.014833127317676144
+      },
+      {
+        "Date": 1482768000,
+        "OpeningPrice": 0.01594,
+        "ClosingPrice": 0.0159,
+        "HighestPrice": 0.01624,
+        "LowestPrice": 0.01581,
+        "Volume": 1126000,
+        "ChangePrice": -0.00004,
+        "ChangeRate": -0.002509410288582183
+      },
+      {
+        "Date": 1482854400,
+        "OpeningPrice": 0.0159,
+        "ClosingPrice": 0.0162,
+        "HighestPrice": 0.0162,
+        "LowestPrice": 0.01584,
+        "Volume": 552900,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01886792452830189
+      },
+      {
+        "Date": 1482940800,
+        "OpeningPrice": 0.0162,
+        "ClosingPrice": 0.01597,
+        "HighestPrice": 0.0165,
+        "LowestPrice": 0.01591,
+        "Volume": 1013400,
+        "ChangePrice": -0.00023,
+        "ChangeRate": -0.014197530864197531
+      },
+      {
+        "Date": 1483027200,
+        "OpeningPrice": 0.01597,
+        "ClosingPrice": 0.01593,
+        "HighestPrice": 0.01627,
+        "LowestPrice": 0.0159,
+        "Volume": 8401400,
+        "ChangePrice": -0.00004,
+        "ChangeRate": -0.002504696305572949
+      },
+      {
+        "Date": 1483113600,
+        "OpeningPrice": 0.01593,
+        "ClosingPrice": 0.01623,
+        "HighestPrice": 0.01623,
+        "LowestPrice": 0.01593,
+        "Volume": 798700,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.018832391713747645
+      },
+      {
+        "Date": 1483200000,
+        "OpeningPrice": 0.01623,
+        "ClosingPrice": 0.01653,
+        "HighestPrice": 0.01653,
+        "LowestPrice": 0.01623,
+        "Volume": 316700,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.018484288354898334
+      },
+      {
+        "Date": 1483286400,
+        "OpeningPrice": 0.01653,
+        "ClosingPrice": 0.01683,
+        "HighestPrice": 0.01683,
+        "LowestPrice": 0.01623,
+        "Volume": 815300,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.018148820326678763
+      },
+      {
+        "Date": 1483372800,
+        "OpeningPrice": 0.01683,
+        "ClosingPrice": 0.01653,
+        "HighestPrice": 0.01713,
+        "LowestPrice": 0.01653,
+        "Volume": 933300,
+        "ChangePrice": -0.0003,
+        "ChangeRate": -0.017825311942959002
+      },
+      {
+        "Date": 1483459200,
+        "OpeningPrice": 0.01653,
+        "ClosingPrice": 0.01651,
+        "HighestPrice": 0.01683,
+        "LowestPrice": 0.0165,
+        "Volume": 711300,
+        "ChangePrice": -0.00002,
+        "ChangeRate": -0.0012099213551119176
+      },
+      {
+        "Date": 1483545600,
+        "OpeningPrice": 0.01651,
+        "ClosingPrice": 0.01621,
+        "HighestPrice": 0.01681,
+        "LowestPrice": 0.01621,
+        "Volume": 631900,
+        "ChangePrice": -0.0003,
+        "ChangeRate": -0.018170805572380374
+      },
+      {
+        "Date": 1483632000,
+        "OpeningPrice": 0.01621,
+        "ClosingPrice": 0.01651,
+        "HighestPrice": 0.01651,
+        "LowestPrice": 0.0162,
+        "Volume": 5245800,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01850709438618137
+      },
+      {
+        "Date": 1483718400,
+        "OpeningPrice": 0.01651,
+        "ClosingPrice": 0.01625,
+        "HighestPrice": 0.01681,
+        "LowestPrice": 0.01623,
+        "Volume": 521600,
+        "ChangePrice": -0.00026,
+        "ChangeRate": -0.015748031496062992
+      },
+      {
+        "Date": 1483804800,
+        "OpeningPrice": 0.01625,
+        "ClosingPrice": 0.01655,
+        "HighestPrice": 0.01655,
+        "LowestPrice": 0.01625,
+        "Volume": 128500,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01846153846153846
+      },
+      {
+        "Date": 1483891200,
+        "OpeningPrice": 0.01655,
+        "ClosingPrice": 0.01625,
+        "HighestPrice": 0.01685,
+        "LowestPrice": 0.01625,
+        "Volume": 921400,
+        "ChangePrice": -0.0003,
+        "ChangeRate": -0.01812688821752266
+      },
+      {
+        "Date": 1483977600,
+        "OpeningPrice": 0.01625,
+        "ClosingPrice": 0.01625,
+        "HighestPrice": 0.01655,
+        "LowestPrice": 0.01611,
+        "Volume": 4348400,
+        "ChangePrice": 0,
+        "ChangeRate": 0
+      },
+      {
+        "Date": 1484064000,
+        "OpeningPrice": 0.01625,
+        "ClosingPrice": 0.01602,
+        "HighestPrice": 0.01655,
+        "LowestPrice": 0.01598,
+        "Volume": 1349000,
+        "ChangePrice": -0.00023,
+        "ChangeRate": -0.014153846153846154
+      },
+      {
+        "Date": 1484150400,
+        "OpeningPrice": 0.01602,
+        "ClosingPrice": 0.0161,
+        "HighestPrice": 0.01632,
+        "LowestPrice": 0.01601,
+        "Volume": 950400,
+        "ChangePrice": 0.00008,
+        "ChangeRate": 0.004993757802746566
+      },
+      {
+        "Date": 1484236800,
+        "OpeningPrice": 0.0161,
+        "ClosingPrice": 0.01582,
+        "HighestPrice": 0.0164,
+        "LowestPrice": 0.0158,
+        "Volume": 455300,
+        "ChangePrice": -0.00028,
+        "ChangeRate": -0.017391304347826087
+      },
+      {
+        "Date": 1484323200,
+        "OpeningPrice": 0.01582,
+        "ClosingPrice": 0.01554,
+        "HighestPrice": 0.01612,
+        "LowestPrice": 0.01554,
+        "Volume": 437200,
+        "ChangePrice": -0.00028,
+        "ChangeRate": -0.017699115044247787
+      },
+      {
+        "Date": 1484409600,
+        "OpeningPrice": 0.01554,
+        "ClosingPrice": 0.01584,
+        "HighestPrice": 0.01584,
+        "LowestPrice": 0.01537,
+        "Volume": 429200,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.019305019305019305
+      },
+      {
+        "Date": 1484496000,
+        "OpeningPrice": 0.01584,
+        "ClosingPrice": 0.01614,
+        "HighestPrice": 0.01614,
+        "LowestPrice": 0.01554,
+        "Volume": 6631100,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01893939393939394
+      },
+      {
+        "Date": 1484582400,
+        "OpeningPrice": 0.01614,
+        "ClosingPrice": 0.01644,
+        "HighestPrice": 0.01644,
+        "LowestPrice": 0.01585,
+        "Volume": 1309100,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01858736059479554
+      },
+      {
+        "Date": 1484668800,
+        "OpeningPrice": 0.01644,
+        "ClosingPrice": 0.01616,
+        "HighestPrice": 0.01674,
+        "LowestPrice": 0.01614,
+        "Volume": 7711500,
+        "ChangePrice": -0.00028,
+        "ChangeRate": -0.0170316301703163
+      },
+      {
+        "Date": 1484755200,
+        "OpeningPrice": 0.01616,
+        "ClosingPrice": 0.0159,
+        "HighestPrice": 0.01646,
+        "LowestPrice": 0.0159,
+        "Volume": 709100,
+        "ChangePrice": -0.00026,
+        "ChangeRate": -0.01608910891089109
+      },
+      {
+        "Date": 1484841600,
+        "OpeningPrice": 0.0159,
+        "ClosingPrice": 0.0162,
+        "HighestPrice": 0.0162,
+        "LowestPrice": 0.0159,
+        "Volume": 263000,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01886792452830189
+      },
+      {
+        "Date": 1484928000,
+        "OpeningPrice": 0.0162,
+        "ClosingPrice": 0.01593,
+        "HighestPrice": 0.0165,
+        "LowestPrice": 0.01592,
+        "Volume": 22795400,
+        "ChangePrice": -0.00027,
+        "ChangeRate": -0.016666666666666666
+      },
+      {
+        "Date": 1485014400,
+        "OpeningPrice": 0.01593,
+        "ClosingPrice": 0.01564,
+        "HighestPrice": 0.01623,
+        "LowestPrice": 0.01564,
+        "Volume": 2606600,
+        "ChangePrice": -0.00029,
+        "ChangeRate": -0.018204645323289394
+      },
+      {
+        "Date": 1485100800,
+        "OpeningPrice": 0.01564,
+        "ClosingPrice": 0.01539,
+        "HighestPrice": 0.01594,
+        "LowestPrice": 0.01538,
+        "Volume": 1486300,
+        "ChangePrice": -0.00025,
+        "ChangeRate": -0.0159846547314578
+      },
+      {
+        "Date": 1485187200,
+        "OpeningPrice": 0.01539,
+        "ClosingPrice": 0.01569,
+        "HighestPrice": 0.01569,
+        "LowestPrice": 0.01535,
+        "Volume": 1722600,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01949317738791423
+      },
+      {
+        "Date": 1485273600,
+        "OpeningPrice": 0.01569,
+        "ClosingPrice": 0.01541,
+        "HighestPrice": 0.01599,
+        "LowestPrice": 0.01539,
+        "Volume": 416900,
+        "ChangePrice": -0.00028,
+        "ChangeRate": -0.017845761631612493
+      },
+      {
+        "Date": 1485360000,
+        "OpeningPrice": 0.01541,
+        "ClosingPrice": 0.01542,
+        "HighestPrice": 0.01571,
+        "LowestPrice": 0.01541,
+        "Volume": 449600,
+        "ChangePrice": 0.00001,
+        "ChangeRate": 0.0006489292667099286
+      },
+      {
+        "Date": 1485446400,
+        "OpeningPrice": 0.01542,
+        "ClosingPrice": 0.01542,
+        "HighestPrice": 0.01572,
+        "LowestPrice": 0.01542,
+        "Volume": 6928100,
+        "ChangePrice": 0,
+        "ChangeRate": 0
+      },
+      {
+        "Date": 1485532800,
+        "OpeningPrice": 0.01542,
+        "ClosingPrice": 0.01542,
+        "HighestPrice": 0.01572,
+        "LowestPrice": 0.01542,
+        "Volume": 540800,
+        "ChangePrice": 0,
+        "ChangeRate": 0
+      },
+      {
+        "Date": 1485619200,
+        "OpeningPrice": 0.01542,
+        "ClosingPrice": 0.01572,
+        "HighestPrice": 0.01572,
+        "LowestPrice": 0.01542,
+        "Volume": 77900,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.019455252918287938
+      },
+      {
+        "Date": 1485705600,
+        "OpeningPrice": 0.01572,
+        "ClosingPrice": 0.0157,
+        "HighestPrice": 0.01602,
+        "LowestPrice": 0.01562,
+        "Volume": 413000,
+        "ChangePrice": -0.00002,
+        "ChangeRate": -0.0012722646310432569
+      },
+      {
+        "Date": 1485792000,
+        "OpeningPrice": 0.0157,
+        "ClosingPrice": 0.01557,
+        "HighestPrice": 0.016,
+        "LowestPrice": 0.01555,
+        "Volume": 5411800,
+        "ChangePrice": -0.00013,
+        "ChangeRate": -0.008280254777070064
+      },
+      {
+        "Date": 1485878400,
+        "OpeningPrice": 0.01557,
+        "ClosingPrice": 0.01556,
+        "HighestPrice": 0.01587,
+        "LowestPrice": 0.01556,
+        "Volume": 331300,
+        "ChangePrice": -0.00001,
+        "ChangeRate": -0.0006422607578676942
+      },
+      {
+        "Date": 1485964800,
+        "OpeningPrice": 0.01556,
+        "ClosingPrice": 0.01555,
+        "HighestPrice": 0.01586,
+        "LowestPrice": 0.01555,
+        "Volume": 398600,
+        "ChangePrice": -0.00001,
+        "ChangeRate": -0.0006426735218508997
+      },
+      {
+        "Date": 1486051200,
+        "OpeningPrice": 0.01555,
+        "ClosingPrice": 0.01557,
+        "HighestPrice": 0.01585,
+        "LowestPrice": 0.01555,
+        "Volume": 282800,
+        "ChangePrice": 0.00002,
+        "ChangeRate": 0.0012861736334405145
+      },
+      {
+        "Date": 1486137600,
+        "OpeningPrice": 0.01557,
+        "ClosingPrice": 0.01558,
+        "HighestPrice": 0.01587,
+        "LowestPrice": 0.01557,
+        "Volume": 2231000,
+        "ChangePrice": 0.00001,
+        "ChangeRate": 0.0006422607578676942
+      },
+      {
+        "Date": 1486224000,
+        "OpeningPrice": 0.01558,
+        "ClosingPrice": 0.01559,
+        "HighestPrice": 0.01588,
+        "LowestPrice": 0.01558,
+        "Volume": 585600,
+        "ChangePrice": 0.00001,
+        "ChangeRate": 0.0006418485237483953
+      },
+      {
+        "Date": 1486310400,
+        "OpeningPrice": 0.01559,
+        "ClosingPrice": 0.01589,
+        "HighestPrice": 0.01589,
+        "LowestPrice": 0.01559,
+        "Volume": 120600,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01924310455420141
+      },
+      {
+        "Date": 1486396800,
+        "OpeningPrice": 0.01589,
+        "ClosingPrice": 0.0159,
+        "HighestPrice": 0.01619,
+        "LowestPrice": 0.01589,
+        "Volume": 411300,
+        "ChangePrice": 0.00001,
+        "ChangeRate": 0.0006293266205160478
+      },
+      {
+        "Date": 1486483200,
+        "OpeningPrice": 0.0159,
+        "ClosingPrice": 0.01592,
+        "HighestPrice": 0.0162,
+        "LowestPrice": 0.0159,
+        "Volume": 1289600,
+        "ChangePrice": 0.00002,
+        "ChangeRate": 0.0012578616352201255
+      },
+      {
+        "Date": 1486569600,
+        "OpeningPrice": 0.01592,
+        "ClosingPrice": 0.01594,
+        "HighestPrice": 0.01622,
+        "LowestPrice": 0.01592,
+        "Volume": 339300,
+        "ChangePrice": 0.00002,
+        "ChangeRate": 0.001256281407035176
+      },
+      {
+        "Date": 1486656000,
+        "OpeningPrice": 0.01594,
+        "ClosingPrice": 0.01601,
+        "HighestPrice": 0.01624,
+        "LowestPrice": 0.01593,
+        "Volume": 487600,
+        "ChangePrice": 0.00007,
+        "ChangeRate": 0.004391468005018821
+      },
+      {
+        "Date": 1486742400,
+        "OpeningPrice": 0.01601,
+        "ClosingPrice": 0.01631,
+        "HighestPrice": 0.01631,
+        "LowestPrice": 0.01601,
+        "Volume": 94400,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01873828856964397
+      },
+      {
+        "Date": 1486828800,
+        "OpeningPrice": 0.01631,
+        "ClosingPrice": 0.01605,
+        "HighestPrice": 0.01661,
+        "LowestPrice": 0.01605,
+        "Volume": 855800,
+        "ChangePrice": -0.00026,
+        "ChangeRate": -0.01594114040465972
+      },
+      {
+        "Date": 1486915200,
+        "OpeningPrice": 0.01605,
+        "ClosingPrice": 0.01602,
+        "HighestPrice": 0.01635,
+        "LowestPrice": 0.01601,
+        "Volume": 440000,
+        "ChangePrice": -0.00003,
+        "ChangeRate": -0.0018691588785046728
+      },
+      {
+        "Date": 1487001600,
+        "OpeningPrice": 0.01602,
+        "ClosingPrice": 0.01604,
+        "HighestPrice": 0.01632,
+        "LowestPrice": 0.01602,
+        "Volume": 454000,
+        "ChangePrice": 0.00002,
+        "ChangeRate": 0.0012484394506866415
+      },
+      {
+        "Date": 1487088000,
+        "OpeningPrice": 0.01604,
+        "ClosingPrice": 0.01604,
+        "HighestPrice": 0.01634,
+        "LowestPrice": 0.01604,
+        "Volume": 7792600,
+        "ChangePrice": 0,
+        "ChangeRate": 0
+      },
+      {
+        "Date": 1487174400,
+        "OpeningPrice": 0.01604,
+        "ClosingPrice": 0.01605,
+        "HighestPrice": 0.01634,
+        "LowestPrice": 0.01604,
+        "Volume": 436200,
+        "ChangePrice": 0.00001,
+        "ChangeRate": 0.0006234413965087281
+      },
+      {
+        "Date": 1487260800,
+        "OpeningPrice": 0.01604,
+        "ClosingPrice": 0.01606,
+        "HighestPrice": 0.01634,
+        "LowestPrice": 0.01604,
+        "Volume": 426000,
+        "ChangePrice": 0.00002,
+        "ChangeRate": 0.0012468827930174563
+      },
+      {
+        "Date": 1487347200,
+        "OpeningPrice": 0.01606,
+        "ClosingPrice": 0.01608,
+        "HighestPrice": 0.01636,
+        "LowestPrice": 0.01605,
+        "Volume": 489000,
+        "ChangePrice": 0.00002,
+        "ChangeRate": 0.0012453300124533
+      },
+      {
+        "Date": 1487433600,
+        "OpeningPrice": 0.01608,
+        "ClosingPrice": 0.01603,
+        "HighestPrice": 0.01638,
+        "LowestPrice": 0.01603,
+        "Volume": 1296400,
+        "ChangePrice": -0.00005,
+        "ChangeRate": -0.003109452736318408
+      },
+      {
+        "Date": 1487520000,
+        "OpeningPrice": 0.01603,
+        "ClosingPrice": 0.01604,
+        "HighestPrice": 0.01633,
+        "LowestPrice": 0.01603,
+        "Volume": 536000,
+        "ChangePrice": 0.00001,
+        "ChangeRate": 0.0006238303181534621
+      },
+      {
+        "Date": 1487606400,
+        "OpeningPrice": 0.01604,
+        "ClosingPrice": 0.01605,
+        "HighestPrice": 0.01634,
+        "LowestPrice": 0.01604,
+        "Volume": 501400,
+        "ChangePrice": 0.00001,
+        "ChangeRate": 0.0006234413965087281
+      },
+      {
+        "Date": 1487692800,
+        "OpeningPrice": 0.01605,
+        "ClosingPrice": 0.01611,
+        "HighestPrice": 0.01635,
+        "LowestPrice": 0.01605,
+        "Volume": 1723600,
+        "ChangePrice": 0.00006,
+        "ChangeRate": 0.0037383177570093455
+      },
+      {
+        "Date": 1487779200,
+        "OpeningPrice": 0.01611,
+        "ClosingPrice": 0.01613,
+        "HighestPrice": 0.01641,
+        "LowestPrice": 0.01611,
+        "Volume": 695500,
+        "ChangePrice": 0.00002,
+        "ChangeRate": 0.0012414649286157666
+      },
+      {
+        "Date": 1487865600,
+        "OpeningPrice": 0.01613,
+        "ClosingPrice": 0.01605,
+        "HighestPrice": 0.01643,
+        "LowestPrice": 0.016,
+        "Volume": 890100,
+        "ChangePrice": -0.00008,
+        "ChangeRate": -0.0049597024178549285
+      },
+      {
+        "Date": 1487952000,
+        "OpeningPrice": 0.01605,
+        "ClosingPrice": 0.01605,
+        "HighestPrice": 0.01635,
+        "LowestPrice": 0.016,
+        "Volume": 728300,
+        "ChangePrice": 0,
+        "ChangeRate": 0
+      },
+      {
+        "Date": 1488038400,
+        "OpeningPrice": 0.01605,
+        "ClosingPrice": 0.01617,
+        "HighestPrice": 0.01635,
+        "LowestPrice": 0.01605,
+        "Volume": 44834700,
+        "ChangePrice": 0.00012,
+        "ChangeRate": 0.007476635514018691
+      },
+      {
+        "Date": 1488124800,
+        "OpeningPrice": 0.01617,
+        "ClosingPrice": 0.01647,
+        "HighestPrice": 0.01647,
+        "LowestPrice": 0.01617,
+        "Volume": 742300,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01855287569573284
+      },
+      {
+        "Date": 1488211200,
+        "OpeningPrice": 0.01647,
+        "ClosingPrice": 0.01648,
+        "HighestPrice": 0.01677,
+        "LowestPrice": 0.01647,
+        "Volume": 674300,
+        "ChangePrice": 0.00001,
+        "ChangeRate": 0.000607164541590771
+      },
+      {
+        "Date": 1488297600,
+        "OpeningPrice": 0.01648,
+        "ClosingPrice": 0.01649,
+        "HighestPrice": 0.01678,
+        "LowestPrice": 0.01631,
+        "Volume": 1005900,
+        "ChangePrice": 0.00001,
+        "ChangeRate": 0.0006067961165048543
+      },
+      {
+        "Date": 1488384000,
+        "OpeningPrice": 0.01649,
+        "ClosingPrice": 0.01649,
+        "HighestPrice": 0.01679,
+        "LowestPrice": 0.01634,
+        "Volume": 6975500,
+        "ChangePrice": 0,
+        "ChangeRate": 0
+      },
+      {
+        "Date": 1488470400,
+        "OpeningPrice": 0.01649,
+        "ClosingPrice": 0.01629,
+        "HighestPrice": 0.01679,
+        "LowestPrice": 0.01628,
+        "Volume": 9840000,
+        "ChangePrice": -0.0002,
+        "ChangeRate": -0.01212856276531231
+      },
+      {
+        "Date": 1488556800,
+        "OpeningPrice": 0.01629,
+        "ClosingPrice": 0.01631,
+        "HighestPrice": 0.01659,
+        "LowestPrice": 0.01629,
+        "Volume": 2226500,
+        "ChangePrice": 0.00002,
+        "ChangeRate": 0.0012277470841006752
+      },
+      {
+        "Date": 1488643200,
+        "OpeningPrice": 0.01631,
+        "ClosingPrice": 0.01661,
+        "HighestPrice": 0.01661,
+        "LowestPrice": 0.01631,
+        "Volume": 802400,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01839362354383814
+      },
+      {
+        "Date": 1488729600,
+        "OpeningPrice": 0.01661,
+        "ClosingPrice": 0.01636,
+        "HighestPrice": 0.01691,
+        "LowestPrice": 0.01633,
+        "Volume": 3546300,
+        "ChangePrice": -0.00025,
+        "ChangeRate": -0.015051173991571343
+      },
+      {
+        "Date": 1488816000,
+        "OpeningPrice": 0.01636,
+        "ClosingPrice": 0.01637,
+        "HighestPrice": 0.01666,
+        "LowestPrice": 0.01636,
+        "Volume": 2935100,
+        "ChangePrice": 0.00001,
+        "ChangeRate": 0.0006112469437652811
+      },
+      {
+        "Date": 1488902400,
+        "OpeningPrice": 0.01637,
+        "ClosingPrice": 0.01633,
+        "HighestPrice": 0.01667,
+        "LowestPrice": 0.0163,
+        "Volume": 17648500,
+        "ChangePrice": -0.00004,
+        "ChangeRate": -0.002443494196701283
+      },
+      {
+        "Date": 1488988800,
+        "OpeningPrice": 0.01633,
+        "ClosingPrice": 0.01637,
+        "HighestPrice": 0.01663,
+        "LowestPrice": 0.01633,
+        "Volume": 3863900,
+        "ChangePrice": 0.00004,
+        "ChangeRate": 0.002449479485609308
+      },
+      {
+        "Date": 1489075200,
+        "OpeningPrice": 0.01637,
+        "ClosingPrice": 0.01638,
+        "HighestPrice": 0.01667,
+        "LowestPrice": 0.01637,
+        "Volume": 3356600,
+        "ChangePrice": 0.00001,
+        "ChangeRate": 0.0006108735491753207
+      },
+      {
+        "Date": 1489161600,
+        "OpeningPrice": 0.01638,
+        "ClosingPrice": 0.01642,
+        "HighestPrice": 0.01668,
+        "LowestPrice": 0.01638,
+        "Volume": 2702700,
+        "ChangePrice": 0.00004,
+        "ChangeRate": 0.002442002442002442
+      },
+      {
+        "Date": 1489248000,
+        "OpeningPrice": 0.01642,
+        "ClosingPrice": 0.01641,
+        "HighestPrice": 0.01672,
+        "LowestPrice": 0.01641,
+        "Volume": 6562400,
+        "ChangePrice": -0.00001,
+        "ChangeRate": -0.0006090133982947625
+      },
+      {
+        "Date": 1489334400,
+        "OpeningPrice": 0.01641,
+        "ClosingPrice": 0.01628,
+        "HighestPrice": 0.01671,
+        "LowestPrice": 0.01611,
+        "Volume": 3908700,
+        "ChangePrice": -0.00013,
+        "ChangeRate": -0.007921998781230956
+      },
+      {
+        "Date": 1489420800,
+        "OpeningPrice": 0.01628,
+        "ClosingPrice": 0.01629,
+        "HighestPrice": 0.01658,
+        "LowestPrice": 0.01628,
+        "Volume": 6007200,
+        "ChangePrice": 0.00001,
+        "ChangeRate": 0.0006142506142506142
+      },
+      {
+        "Date": 1489507200,
+        "OpeningPrice": 0.01629,
+        "ClosingPrice": 0.01632,
+        "HighestPrice": 0.01659,
+        "LowestPrice": 0.01629,
+        "Volume": 11088900,
+        "ChangePrice": 0.00003,
+        "ChangeRate": 0.0018416206261510127
+      },
+      {
+        "Date": 1489593600,
+        "OpeningPrice": 0.01632,
+        "ClosingPrice": 0.01631,
+        "HighestPrice": 0.01662,
+        "LowestPrice": 0.01631,
+        "Volume": 4921200,
+        "ChangePrice": -0.00001,
+        "ChangeRate": -0.0006127450980392156
+      },
+      {
+        "Date": 1489680000,
+        "OpeningPrice": 0.01631,
+        "ClosingPrice": 0.0164,
+        "HighestPrice": 0.01661,
+        "LowestPrice": 0.01631,
+        "Volume": 3834300,
+        "ChangePrice": 0.00009,
+        "ChangeRate": 0.005518087063151441
+      },
+      {
+        "Date": 1489766400,
+        "OpeningPrice": 0.0164,
+        "ClosingPrice": 0.01613,
+        "HighestPrice": 0.0167,
+        "LowestPrice": 0.01613,
+        "Volume": 10990500,
+        "ChangePrice": -0.00027,
+        "ChangeRate": -0.016463414634146342
+      },
+      {
+        "Date": 1489852800,
+        "OpeningPrice": 0.01613,
+        "ClosingPrice": 0.01614,
+        "HighestPrice": 0.01643,
+        "LowestPrice": 0.01613,
+        "Volume": 4273200,
+        "ChangePrice": 0.00001,
+        "ChangeRate": 0.000619962802231866
+      },
+      {
+        "Date": 1489939200,
+        "OpeningPrice": 0.01614,
+        "ClosingPrice": 0.01611,
+        "HighestPrice": 0.01644,
+        "LowestPrice": 0.01609,
+        "Volume": 6621700,
+        "ChangePrice": -0.00003,
+        "ChangeRate": -0.001858736059479554
+      },
+      {
+        "Date": 1490025600,
+        "OpeningPrice": 0.01611,
+        "ClosingPrice": 0.01612,
+        "HighestPrice": 0.01641,
+        "LowestPrice": 0.01611,
+        "Volume": 9809100,
+        "ChangePrice": 0.00001,
+        "ChangeRate": 0.0006207324643078833
+      },
+      {
+        "Date": 1490112000,
+        "OpeningPrice": 0.01612,
+        "ClosingPrice": 0.01613,
+        "HighestPrice": 0.01642,
+        "LowestPrice": 0.01612,
+        "Volume": 10700300,
+        "ChangePrice": 0.00001,
+        "ChangeRate": 0.0006203473945409429
+      },
+      {
+        "Date": 1490198400,
+        "OpeningPrice": 0.01613,
+        "ClosingPrice": 0.01616,
+        "HighestPrice": 0.01643,
+        "LowestPrice": 0.01613,
+        "Volume": 6398700,
+        "ChangePrice": 0.00003,
+        "ChangeRate": 0.0018598884066955985
+      },
+      {
+        "Date": 1490284800,
+        "OpeningPrice": 0.01616,
+        "ClosingPrice": 0.01618,
+        "HighestPrice": 0.01646,
+        "LowestPrice": 0.01616,
+        "Volume": 3709600,
+        "ChangePrice": 0.00002,
+        "ChangeRate": 0.0012376237623762376
+      },
+      {
+        "Date": 1490371200,
+        "OpeningPrice": 0.01618,
+        "ClosingPrice": 0.01621,
+        "HighestPrice": 0.01648,
+        "LowestPrice": 0.01618,
+        "Volume": 15231400,
+        "ChangePrice": 0.00003,
+        "ChangeRate": 0.001854140914709518
+      },
+      {
+        "Date": 1490457600,
+        "OpeningPrice": 0.01621,
+        "ClosingPrice": 0.01624,
+        "HighestPrice": 0.01651,
+        "LowestPrice": 0.01621,
+        "Volume": 10704500,
+        "ChangePrice": 0.00003,
+        "ChangeRate": 0.001850709438618137
+      },
+      {
+        "Date": 1490544000,
+        "OpeningPrice": 0.01624,
+        "ClosingPrice": 0.01654,
+        "HighestPrice": 0.01654,
+        "LowestPrice": 0.01624,
+        "Volume": 1122300,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.018472906403940885
+      },
+      {
+        "Date": 1490630400,
+        "OpeningPrice": 0.01654,
+        "ClosingPrice": 0.01632,
+        "HighestPrice": 0.01684,
+        "LowestPrice": 0.01632,
+        "Volume": 15822000,
+        "ChangePrice": -0.00022,
+        "ChangeRate": -0.013301088270858524
+      },
+      {
+        "Date": 1490716800,
+        "OpeningPrice": 0.01632,
+        "ClosingPrice": 0.01627,
+        "HighestPrice": 0.01662,
+        "LowestPrice": 0.01624,
+        "Volume": 4405600,
+        "ChangePrice": -0.00005,
+        "ChangeRate": -0.0030637254901960784
+      },
+      {
+        "Date": 1490803200,
+        "OpeningPrice": 0.01627,
+        "ClosingPrice": 0.01622,
+        "HighestPrice": 0.01657,
+        "LowestPrice": 0.01627,
+        "Volume": 51721500,
+        "ChangePrice": -0.00005,
+        "ChangeRate": -0.003073140749846343
+      },
+      {
+        "Date": 1490889600,
+        "OpeningPrice": 0.01622,
+        "ClosingPrice": 0.01594,
+        "HighestPrice": 0.01652,
+        "LowestPrice": 0.01622,
+        "Volume": 88933700,
+        "ChangePrice": -0.00028,
+        "ChangeRate": -0.017262638717632554
+      },
+      {
+        "Date": 1490976000,
+        "OpeningPrice": 0.01594,
+        "ClosingPrice": 0.01565,
+        "HighestPrice": 0.01623,
+        "LowestPrice": 0.01594,
+        "Volume": 125639700,
+        "ChangePrice": -0.00029,
+        "ChangeRate": -0.01819322459222083
+      },
+      {
+        "Date": 1491062400,
+        "OpeningPrice": 0.01565,
+        "ClosingPrice": 0.01595,
+        "HighestPrice": 0.01595,
+        "LowestPrice": 0.01565,
+        "Volume": 2961800,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.019169329073482427
+      },
+      {
+        "Date": 1491148800,
+        "OpeningPrice": 0.01595,
+        "ClosingPrice": 0.01613,
+        "HighestPrice": 0.01623,
+        "LowestPrice": 0.01595,
+        "Volume": 25505100,
+        "ChangePrice": 0.00018,
+        "ChangeRate": 0.011285266457680252
+      },
+      {
+        "Date": 1491235200,
+        "OpeningPrice": 0.01613,
+        "ClosingPrice": 0.01601,
+        "HighestPrice": 0.01624,
+        "LowestPrice": 0.01613,
+        "Volume": 28739000,
+        "ChangePrice": -0.00012,
+        "ChangeRate": -0.007439553626782394
+      },
+      {
+        "Date": 1491321600,
+        "OpeningPrice": 0.01601,
+        "ClosingPrice": 0.01604,
+        "HighestPrice": 0.01615,
+        "LowestPrice": 0.01601,
+        "Volume": 33291400,
+        "ChangePrice": 0.00003,
+        "ChangeRate": 0.0018738288569643971
+      },
+      {
+        "Date": 1491408000,
+        "OpeningPrice": 0.01604,
+        "ClosingPrice": 0.01604,
+        "HighestPrice": 0.01609,
+        "LowestPrice": 0.01604,
+        "Volume": 36764000,
+        "ChangePrice": 0,
+        "ChangeRate": 0
+      },
+      {
+        "Date": 1491494400,
+        "OpeningPrice": 0.01604,
+        "ClosingPrice": 0.01634,
+        "HighestPrice": 0.01634,
+        "LowestPrice": 0.01604,
+        "Volume": 26415900,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.018703241895261846
+      },
+      {
+        "Date": 1491580800,
+        "OpeningPrice": 0.01634,
+        "ClosingPrice": 0.01606,
+        "HighestPrice": 0.01663,
+        "LowestPrice": 0.01634,
+        "Volume": 52820100,
+        "ChangePrice": -0.00028,
+        "ChangeRate": -0.017135862913096694
+      },
+      {
+        "Date": 1491667200,
+        "OpeningPrice": 0.01606,
+        "ClosingPrice": 0.01602,
+        "HighestPrice": 0.01632,
+        "LowestPrice": 0.01606,
+        "Volume": 30087700,
+        "ChangePrice": -0.00004,
+        "ChangeRate": -0.0024906600249066
+      },
+      {
+        "Date": 1491753600,
+        "OpeningPrice": 0.01602,
+        "ClosingPrice": 0.01601,
+        "HighestPrice": 0.01632,
+        "LowestPrice": 0.01602,
+        "Volume": 36710100,
+        "ChangePrice": -0.00001,
+        "ChangeRate": -0.0006242197253433207
+      },
+      {
+        "Date": 1491840000,
+        "OpeningPrice": 0.01601,
+        "ClosingPrice": 0.01597,
+        "HighestPrice": 0.01631,
+        "LowestPrice": 0.01601,
+        "Volume": 24147800,
+        "ChangePrice": -0.00004,
+        "ChangeRate": -0.0024984384759525295
+      },
+      {
+        "Date": 1491926400,
+        "OpeningPrice": 0.01597,
+        "ClosingPrice": 0.01585,
+        "HighestPrice": 0.01624,
+        "LowestPrice": 0.01597,
+        "Volume": 32544400,
+        "ChangePrice": -0.00012,
+        "ChangeRate": -0.007514088916718848
+      },
+      {
+        "Date": 1492012800,
+        "OpeningPrice": 0.01585,
+        "ClosingPrice": 0.01591,
+        "HighestPrice": 0.01615,
+        "LowestPrice": 0.01585,
+        "Volume": 34113600,
+        "ChangePrice": 0.00006,
+        "ChangeRate": 0.003785488958990536
+      },
+      {
+        "Date": 1492099200,
+        "OpeningPrice": 0.01591,
+        "ClosingPrice": 0.01601,
+        "HighestPrice": 0.01621,
+        "LowestPrice": 0.01591,
+        "Volume": 6231600,
+        "ChangePrice": 0.0001,
+        "ChangeRate": 0.006285355122564425
+      },
+      {
+        "Date": 1492185600,
+        "OpeningPrice": 0.01601,
+        "ClosingPrice": 0.01601,
+        "HighestPrice": 0.01631,
+        "LowestPrice": 0.01601,
+        "Volume": 21921400,
+        "ChangePrice": 0,
+        "ChangeRate": 0
+      },
+      {
+        "Date": 1492272000,
+        "OpeningPrice": 0.01601,
+        "ClosingPrice": 0.01601,
+        "HighestPrice": 0.01629,
+        "LowestPrice": 0.01601,
+        "Volume": 26948300,
+        "ChangePrice": 0,
+        "ChangeRate": 0
+      },
+      {
+        "Date": 1492358400,
+        "OpeningPrice": 0.01601,
+        "ClosingPrice": 0.01602,
+        "HighestPrice": 0.01631,
+        "LowestPrice": 0.01601,
+        "Volume": 19395700,
+        "ChangePrice": 0.00001,
+        "ChangeRate": 0.0006246096189881324
+      },
+      {
+        "Date": 1492444800,
+        "OpeningPrice": 0.01602,
+        "ClosingPrice": 0.01603,
+        "HighestPrice": 0.01632,
+        "LowestPrice": 0.01602,
+        "Volume": 15358900,
+        "ChangePrice": 0.00001,
+        "ChangeRate": 0.0006242197253433207
+      },
+      {
+        "Date": 1492531200,
+        "OpeningPrice": 0.01603,
+        "ClosingPrice": 0.01633,
+        "HighestPrice": 0.01633,
+        "LowestPrice": 0.01603,
+        "Volume": 3028700,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.018714909544603867
+      },
+      {
+        "Date": 1492617600,
+        "OpeningPrice": 0.01633,
+        "ClosingPrice": 0.01634,
+        "HighestPrice": 0.01663,
+        "LowestPrice": 0.01633,
+        "Volume": 7424800,
+        "ChangePrice": 0.00001,
+        "ChangeRate": 0.000612369871402327
+      },
+      {
+        "Date": 1492704000,
+        "OpeningPrice": 0.01634,
+        "ClosingPrice": 0.01607,
+        "HighestPrice": 0.01664,
+        "LowestPrice": 0.01634,
+        "Volume": 4086200,
+        "ChangePrice": -0.00027,
+        "ChangeRate": -0.016523867809057527
+      },
+      {
+        "Date": 1492790400,
+        "OpeningPrice": 0.01607,
+        "ClosingPrice": 0.01588,
+        "HighestPrice": 0.01637,
+        "LowestPrice": 0.01607,
+        "Volume": 4368500,
+        "ChangePrice": -0.00019,
+        "ChangeRate": -0.011823273179838207
+      },
+      {
+        "Date": 1492876800,
+        "OpeningPrice": 0.01588,
+        "ClosingPrice": 0.01618,
+        "HighestPrice": 0.01618,
+        "LowestPrice": 0.01588,
+        "Volume": 1280300,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01889168765743073
+      },
+      {
+        "Date": 1492963200,
+        "OpeningPrice": 0.01618,
+        "ClosingPrice": 0.01619,
+        "HighestPrice": 0.01648,
+        "LowestPrice": 0.01618,
+        "Volume": 3852400,
+        "ChangePrice": 0.00001,
+        "ChangeRate": 0.0006180469715698393
+      },
+      {
+        "Date": 1493049600,
+        "OpeningPrice": 0.01619,
+        "ClosingPrice": 0.01595,
+        "HighestPrice": 0.01649,
+        "LowestPrice": 0.01619,
+        "Volume": 2665700,
+        "ChangePrice": -0.00024,
+        "ChangeRate": -0.014823965410747377
+      },
+      {
+        "Date": 1493136000,
+        "OpeningPrice": 0.0159,
+        "ClosingPrice": 0.0162,
+        "HighestPrice": 0.0162,
+        "LowestPrice": 0.0159,
+        "Volume": 1637300,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01886792452830189
+      },
+      {
+        "Date": 1493222400,
+        "OpeningPrice": 0.0162,
+        "ClosingPrice": 0.01601,
+        "HighestPrice": 0.0165,
+        "LowestPrice": 0.0162,
+        "Volume": 2761500,
+        "ChangePrice": -0.00019,
+        "ChangeRate": -0.011728395061728396
+      },
+      {
+        "Date": 1493308800,
+        "OpeningPrice": 0.01601,
+        "ClosingPrice": 0.01591,
+        "HighestPrice": 0.01631,
+        "LowestPrice": 0.01601,
+        "Volume": 2130000,
+        "ChangePrice": -0.0001,
+        "ChangeRate": -0.006246096189881324
+      },
+      {
+        "Date": 1493395200,
+        "OpeningPrice": 0.01591,
+        "ClosingPrice": 0.01572,
+        "HighestPrice": 0.01621,
+        "LowestPrice": 0.01591,
+        "Volume": 3220600,
+        "ChangePrice": -0.00019,
+        "ChangeRate": -0.011942174732872407
+      },
+      {
+        "Date": 1493481600,
+        "OpeningPrice": 0.01572,
+        "ClosingPrice": 0.01556,
+        "HighestPrice": 0.01621,
+        "LowestPrice": 0.01572,
+        "Volume": 2514800,
+        "ChangePrice": -0.00016,
+        "ChangeRate": -0.010178117048346057
+      },
+      {
+        "Date": 1493568000,
+        "OpeningPrice": 0.01556,
+        "ClosingPrice": 0.01533,
+        "HighestPrice": 0.01586,
+        "LowestPrice": 0.01556,
+        "Volume": 3351700,
+        "ChangePrice": -0.00023,
+        "ChangeRate": -0.014781491002570694
+      },
+      {
+        "Date": 1493654400,
+        "OpeningPrice": 0.01533,
+        "ClosingPrice": 0.01504,
+        "HighestPrice": 0.01563,
+        "LowestPrice": 0.01533,
+        "Volume": 2204700,
+        "ChangePrice": -0.00029,
+        "ChangeRate": -0.018917155903457272
+      },
+      {
+        "Date": 1493740800,
+        "OpeningPrice": 0.01504,
+        "ClosingPrice": 0.0149,
+        "HighestPrice": 0.01534,
+        "LowestPrice": 0.01504,
+        "Volume": 2570400,
+        "ChangePrice": -0.00014,
+        "ChangeRate": -0.009308510638297872
+      },
+      {
+        "Date": 1493827200,
+        "OpeningPrice": 0.0149,
+        "ClosingPrice": 0.01461,
+        "HighestPrice": 0.0152,
+        "LowestPrice": 0.0149,
+        "Volume": 2216200,
+        "ChangePrice": -0.00029,
+        "ChangeRate": -0.019463087248322148
+      },
+      {
+        "Date": 1493913600,
+        "OpeningPrice": 0.01461,
+        "ClosingPrice": 0.01432,
+        "HighestPrice": 0.01491,
+        "LowestPrice": 0.01461,
+        "Volume": 4798800,
+        "ChangePrice": -0.00029,
+        "ChangeRate": -0.019849418206707735
+      },
+      {
+        "Date": 1494000000,
+        "OpeningPrice": 0.01432,
+        "ClosingPrice": 0.01402,
+        "HighestPrice": 0.01462,
+        "LowestPrice": 0.01432,
+        "Volume": 2524300,
+        "ChangePrice": -0.0003,
+        "ChangeRate": -0.020949720670391064
+      },
+      {
+        "Date": 1494086400,
+        "OpeningPrice": 0.01402,
+        "ClosingPrice": 0.01422,
+        "HighestPrice": 0.01432,
+        "LowestPrice": 0.01402,
+        "Volume": 11806500,
+        "ChangePrice": 0.0002,
+        "ChangeRate": 0.014265335235378032
+      },
+      {
+        "Date": 1494172800,
+        "OpeningPrice": 0.01422,
+        "ClosingPrice": 0.01452,
+        "HighestPrice": 0.01452,
+        "LowestPrice": 0.01422,
+        "Volume": 798100,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.02109704641350211
+      },
+      {
+        "Date": 1494259200,
+        "OpeningPrice": 0.01452,
+        "ClosingPrice": 0.01452,
+        "HighestPrice": 0.01482,
+        "LowestPrice": 0.01452,
+        "Volume": 1285700,
+        "ChangePrice": 0,
+        "ChangeRate": 0
+      },
+      {
+        "Date": 1494345600,
+        "OpeningPrice": 0.01452,
+        "ClosingPrice": 0.01482,
+        "HighestPrice": 0.01482,
+        "LowestPrice": 0.01452,
+        "Volume": 1757700,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.02066115702479339
+      },
+      {
+        "Date": 1494432000,
+        "OpeningPrice": 0.01482,
+        "ClosingPrice": 0.01512,
+        "HighestPrice": 0.01512,
+        "LowestPrice": 0.01482,
+        "Volume": 1013100,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.020242914979757085
+      },
+      {
+        "Date": 1494518400,
+        "OpeningPrice": 0.01512,
+        "ClosingPrice": 0.01542,
+        "HighestPrice": 0.01542,
+        "LowestPrice": 0.01512,
+        "Volume": 1356500,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01984126984126984
+      },
+      {
+        "Date": 1494604800,
+        "OpeningPrice": 0.01542,
+        "ClosingPrice": 0.01572,
+        "HighestPrice": 0.01572,
+        "LowestPrice": 0.01542,
+        "Volume": 707200,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.019455252918287938
+      },
+      {
+        "Date": 1494691200,
+        "OpeningPrice": 0.01572,
+        "ClosingPrice": 0.01602,
+        "HighestPrice": 0.01602,
+        "LowestPrice": 0.01572,
+        "Volume": 896200,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.019083969465648856
+      },
+      {
+        "Date": 1494777600,
+        "OpeningPrice": 0.01602,
+        "ClosingPrice": 0.01572,
+        "HighestPrice": 0.01632,
+        "LowestPrice": 0.01602,
+        "Volume": 17824400,
+        "ChangePrice": -0.0003,
+        "ChangeRate": -0.018726591760299626
+      },
+      {
+        "Date": 1494864000,
+        "OpeningPrice": 0.01572,
+        "ClosingPrice": 0.016,
+        "HighestPrice": 0.01602,
+        "LowestPrice": 0.01572,
+        "Volume": 34602900,
+        "ChangePrice": 0.00028,
+        "ChangeRate": 0.017811704834605598
+      },
+      {
+        "Date": 1494950400,
+        "OpeningPrice": 0.016,
+        "ClosingPrice": 0.01578,
+        "HighestPrice": 0.0163,
+        "LowestPrice": 0.016,
+        "Volume": 22991500,
+        "ChangePrice": -0.00022,
+        "ChangeRate": -0.01375
+      },
+      {
+        "Date": 1495036800,
+        "OpeningPrice": 0.01577,
+        "ClosingPrice": 0.0155,
+        "HighestPrice": 0.01578,
+        "LowestPrice": 0.01577,
+        "Volume": 28683400,
+        "ChangePrice": -0.00027,
+        "ChangeRate": -0.017121116043119847
+      },
+      {
+        "Date": 1495123200,
+        "OpeningPrice": 0.0155,
+        "ClosingPrice": 0.01536,
+        "HighestPrice": 0.0155,
+        "LowestPrice": 0.0155,
+        "Volume": 22552300,
+        "ChangePrice": -0.00014,
+        "ChangeRate": -0.00903225806451613
+      },
+      {
+        "Date": 1495209600,
+        "OpeningPrice": 0.01536,
+        "ClosingPrice": 0.01522,
+        "HighestPrice": 0.0155,
+        "LowestPrice": 0.01536,
+        "Volume": 44872100,
+        "ChangePrice": -0.00014,
+        "ChangeRate": -0.009114583333333332
+      },
+      {
+        "Date": 1495296000,
+        "OpeningPrice": 0.01522,
+        "ClosingPrice": 0.01509,
+        "HighestPrice": 0.01552,
+        "LowestPrice": 0.01522,
+        "Volume": 99734300,
+        "ChangePrice": -0.00013,
+        "ChangeRate": -0.008541392904073587
+      },
+      {
+        "Date": 1495382400,
+        "OpeningPrice": 0.01509,
+        "ClosingPrice": 0.01539,
+        "HighestPrice": 0.01539,
+        "LowestPrice": 0.01509,
+        "Volume": 72484300,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.019880715705765408
+      },
+      {
+        "Date": 1495468800,
+        "OpeningPrice": 0.01539,
+        "ClosingPrice": 0.01527,
+        "HighestPrice": 0.01569,
+        "LowestPrice": 0.01539,
+        "Volume": 113771100,
+        "ChangePrice": -0.00012,
+        "ChangeRate": -0.0077972709551656924
+      },
+      {
+        "Date": 1495555200,
+        "OpeningPrice": 0.01527,
+        "ClosingPrice": 0.01515,
+        "HighestPrice": 0.01557,
+        "LowestPrice": 0.01527,
+        "Volume": 110031600,
+        "ChangePrice": -0.00012,
+        "ChangeRate": -0.007858546168958742
+      },
+      {
+        "Date": 1495641600,
+        "OpeningPrice": 0.01515,
+        "ClosingPrice": 0.01503,
+        "HighestPrice": 0.01557,
+        "LowestPrice": 0.01515,
+        "Volume": 123327200,
+        "ChangePrice": -0.00012,
+        "ChangeRate": -0.00792079207920792
+      },
+      {
+        "Date": 1495728000,
+        "OpeningPrice": 0.01503,
+        "ClosingPrice": 0.01491,
+        "HighestPrice": 0.01533,
+        "LowestPrice": 0.01503,
+        "Volume": 137195700,
+        "ChangePrice": -0.00012,
+        "ChangeRate": -0.007984031936127744
+      },
+      {
+        "Date": 1495814400,
+        "OpeningPrice": 0.01491,
+        "ClosingPrice": 0.01521,
+        "HighestPrice": 0.01521,
+        "LowestPrice": 0.01491,
+        "Volume": 130407200,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.02012072434607646
+      },
+      {
+        "Date": 1495900800,
+        "OpeningPrice": 0.01521,
+        "ClosingPrice": 0.01551,
+        "HighestPrice": 0.01551,
+        "LowestPrice": 0.01521,
+        "Volume": 2860800,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.01972386587771203
+      },
+      {
+        "Date": 1495987200,
+        "OpeningPrice": 0.01551,
+        "ClosingPrice": 0.01581,
+        "HighestPrice": 0.01581,
+        "LowestPrice": 0.01551,
+        "Volume": 8062600,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.019342359767891684
+      },
+      {
+        "Date": 1496073600,
+        "OpeningPrice": 0.01581,
+        "ClosingPrice": 0.01611,
+        "HighestPrice": 0.01611,
+        "LowestPrice": 0.01581,
+        "Volume": 398400,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.018975332068311198
+      },
+      {
+        "Date": 1496160000,
+        "OpeningPrice": 0.01611,
+        "ClosingPrice": 0.016,
+        "HighestPrice": 0.01641,
+        "LowestPrice": 0.01611,
+        "Volume": 9314300,
+        "ChangePrice": -0.00011,
+        "ChangeRate": -0.006828057107386716
+      },
+      {
+        "Date": 1496246400,
+        "OpeningPrice": 0.016,
+        "ClosingPrice": 0.01586,
+        "HighestPrice": 0.01612,
+        "LowestPrice": 0.016,
+        "Volume": 16916600,
+        "ChangePrice": -0.00014,
+        "ChangeRate": -0.00875
+      },
+      {
+        "Date": 1496332800,
+        "OpeningPrice": 0.01586,
+        "ClosingPrice": 0.01571,
+        "HighestPrice": 0.01616,
+        "LowestPrice": 0.01586,
+        "Volume": 33322800,
+        "ChangePrice": -0.00015,
+        "ChangeRate": -0.009457755359394703
+      },
+      {
+        "Date": 1496419200,
+        "OpeningPrice": 0.01571,
+        "ClosingPrice": 0.01558,
+        "HighestPrice": 0.01601,
+        "LowestPrice": 0.01571,
+        "Volume": 43534800,
+        "ChangePrice": -0.00013,
+        "ChangeRate": -0.008274984086569064
+      },
+      {
+        "Date": 1496505600,
+        "OpeningPrice": 0.01558,
+        "ClosingPrice": 0.01588,
+        "HighestPrice": 0.01588,
+        "LowestPrice": 0.01558,
+        "Volume": 35093000,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.019255455712451863
+      },
+      {
+        "Date": 1496592000,
+        "OpeningPrice": 0.01588,
+        "ClosingPrice": 0.01576,
+        "HighestPrice": 0.01616,
+        "LowestPrice": 0.01588,
+        "Volume": 25409500,
+        "ChangePrice": -0.00012,
+        "ChangeRate": -0.007556675062972293
+      },
+      {
+        "Date": 1496678400,
+        "OpeningPrice": 0.01576,
+        "ClosingPrice": 0.01561,
+        "HighestPrice": 0.01606,
+        "LowestPrice": 0.01576,
+        "Volume": 42426200,
+        "ChangePrice": -0.00015,
+        "ChangeRate": -0.00951776649746193
+      },
+      {
+        "Date": 1496764800,
+        "OpeningPrice": 0.01561,
+        "ClosingPrice": 0.01591,
+        "HighestPrice": 0.01591,
+        "LowestPrice": 0.01561,
+        "Volume": 26431700,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.019218449711723255
+      },
+      {
+        "Date": 1496851200,
+        "OpeningPrice": 0.01591,
+        "ClosingPrice": 0.01577,
+        "HighestPrice": 0.01621,
+        "LowestPrice": 0.01591,
+        "Volume": 16466400,
+        "ChangePrice": -0.00014,
+        "ChangeRate": -0.008799497171590195
+      },
+      {
+        "Date": 1496937600,
+        "OpeningPrice": 0.01577,
+        "ClosingPrice": 0.01548,
+        "HighestPrice": 0.01607,
+        "LowestPrice": 0.01577,
+        "Volume": 41081700,
+        "ChangePrice": -0.00029,
+        "ChangeRate": -0.018389346861128725
+      },
+      {
+        "Date": 1497024000,
+        "OpeningPrice": 0.01548,
+        "ClosingPrice": 0.01535,
+        "HighestPrice": 0.01578,
+        "LowestPrice": 0.01548,
+        "Volume": 51595200,
+        "ChangePrice": -0.00013,
+        "ChangeRate": -0.008397932816537466
+      },
+      {
+        "Date": 1497110400,
+        "OpeningPrice": 0.01535,
+        "ClosingPrice": 0.01505,
+        "HighestPrice": 0.01565,
+        "LowestPrice": 0.01535,
+        "Volume": 46139100,
+        "ChangePrice": -0.0003,
+        "ChangeRate": -0.019543973941368076
+      },
+      {
+        "Date": 1497196800,
+        "OpeningPrice": 0.01505,
+        "ClosingPrice": 0.01476,
+        "HighestPrice": 0.01535,
+        "LowestPrice": 0.01505,
+        "Volume": 61102800,
+        "ChangePrice": -0.00029,
+        "ChangeRate": -0.019269102990033222
+      },
+      {
+        "Date": 1497283200,
+        "OpeningPrice": 0.01476,
+        "ClosingPrice": 0.01446,
+        "HighestPrice": 0.01506,
+        "LowestPrice": 0.01476,
+        "Volume": 52707100,
+        "ChangePrice": -0.0003,
+        "ChangeRate": -0.02032520325203252
+      },
+      {
+        "Date": 1497369600,
+        "OpeningPrice": 0.01446,
+        "ClosingPrice": 0.01416,
+        "HighestPrice": 0.01476,
+        "LowestPrice": 0.01446,
+        "Volume": 18366100,
+        "ChangePrice": -0.0003,
+        "ChangeRate": -0.02074688796680498
+      },
+      {
+        "Date": 1497456000,
+        "OpeningPrice": 0.01416,
+        "ClosingPrice": 0.01417,
+        "HighestPrice": 0.01446,
+        "LowestPrice": 0.01416,
+        "Volume": 22664800,
+        "ChangePrice": 0.00001,
+        "ChangeRate": 0.0007062146892655367
+      },
+      {
+        "Date": 1497542400,
+        "OpeningPrice": 0.01416,
+        "ClosingPrice": 0.01413,
+        "HighestPrice": 0.01445,
+        "LowestPrice": 0.01416,
+        "Volume": 24423900,
+        "ChangePrice": -0.00003,
+        "ChangeRate": -0.00211864406779661
+      },
+      {
+        "Date": 1497628800,
+        "OpeningPrice": 0.01413,
+        "ClosingPrice": 0.01411,
+        "HighestPrice": 0.01442,
+        "LowestPrice": 0.01413,
+        "Volume": 18305400,
+        "ChangePrice": -0.00002,
+        "ChangeRate": -0.0014154281670205235
+      },
+      {
+        "Date": 1497715200,
+        "OpeningPrice": 0.01411,
+        "ClosingPrice": 0.01401,
+        "HighestPrice": 0.01441,
+        "LowestPrice": 0.01411,
+        "Volume": 20679500,
+        "ChangePrice": -0.0001,
+        "ChangeRate": -0.007087172218284904
+      },
+      {
+        "Date": 1497801600,
+        "OpeningPrice": 0.01401,
+        "ClosingPrice": 0.01388,
+        "HighestPrice": 0.01429,
+        "LowestPrice": 0.01401,
+        "Volume": 19241500,
+        "ChangePrice": -0.00013,
+        "ChangeRate": -0.0092790863668808
+      },
+      {
+        "Date": 1497888000,
+        "OpeningPrice": 0.01388,
+        "ClosingPrice": 0.01385,
+        "HighestPrice": 0.01418,
+        "LowestPrice": 0.01388,
+        "Volume": 11688600,
+        "ChangePrice": -0.00003,
+        "ChangeRate": -0.0021613832853025934
+      },
+      {
+        "Date": 1497974400,
+        "OpeningPrice": 0.01385,
+        "ClosingPrice": 0.01415,
+        "HighestPrice": 0.01415,
+        "LowestPrice": 0.01385,
+        "Volume": 1667000,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.021660649819494584
+      },
+      {
+        "Date": 1498060800,
+        "OpeningPrice": 0.01415,
+        "ClosingPrice": 0.01445,
+        "HighestPrice": 0.01445,
+        "LowestPrice": 0.01415,
+        "Volume": 5444300,
+        "ChangePrice": 0.0003,
+        "ChangeRate": 0.021201413427561835
+      }
+    ],
+    "MarketInfo": {
+      "ProductId": 0,
+      "ProductName": "种子",
+      "ProductCode": "800001",
+      "IncreaseRate": 0,
+      "Increase": 0,
+      "Price": 0.01445,
+      "OpenPrice": 0.01415,
+      "HighestPrice": 0,
+      "LowestPrice": 0,
+      "LimitUp": 0.01445,
+      "LimitDown": 0.01385,
+      "Volume": 0,
+      "ProductImage": null
+    }
+  }
+}

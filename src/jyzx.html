@@ -1,0 +1,1363 @@
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>交易中心</title>
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no,minimal-ui">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="交易中心,交易中心">
+    <meta name="keywords" content="交易中心,交易中心">
+    <meta name="author" content="交易中心">
+    <link href="./css/animate.css" rel="stylesheet">
+    <link href="./css/style.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+        <script src="./js/plugin/html5shiv.min.js"></script>
+        <script src="./js/plugin/respond.min.js"></script>
+        <style>
+            .header { background:url(./images/transparent.10.png)!important; }
+            .sticky { background:#FFF!important; }
+            input[type=text],input[type=password] { line-height:40px; }
+            .uc-home .face .cov { display:none; }
+        </style>
+    <![endif]-->
+    <script src="./js/plugin/hm.js"></script><script src="./js/lib/jquery-1.11.3.min.js"></script>
+    <script src="./js/plugin/jquery.backstretch.min.js"></script>
+    <script src="./js/plugin/wow.min.js"></script>
+    <script src="./js/main.js"></script>
+    <script src="./js/utilities.js"></script>
+    <link rel="apple-touch-icon" href="./images/favicon.ico">
+    <link rel="icon" href="./images/favicon.ico">
+    
+    <script type="text/javascript">
+        //主机
+        var Host = "http://www.q7.com/";
+    </script>
+</head>
+<body>
+
+
+    <div class="header">
+        <div class="container clear">
+            <a href="./index.html" class="logo"></a>
+            <ul class="menu clear" id="menu">
+                <li><i class="icon"></i><a href="./index.html">首页</a><i class="icon arrow"></i></li>
+                
+                    
+                <li class="select"><i class="icon"></i><a href="./index.html">农贸市场</a><i class="icon arrow"></i></li>
+                
+                <li><i class="icon"></i><a href="./index.html">游戏公告</a><i class="icon arrow"></i></li>
+                <li><i class="icon"></i><a href="./index.html">攻略资料</a><i class="icon arrow"></i></li>
+                <li><i class="icon"></i><a href="./index.html">帮助中心</a><i class="icon arrow"></i></li>
+                <li><i class="icon"></i><a href="./index.html">关于我们</a><i class="icon arrow"></i></li>
+            </ul>
+
+            <div class="link clear">
+                    <a href="./index.html">用户中心</a>
+                    <a href="./index.html">退出</a>
+            </div>
+            <div class="switch" id="switch"><i></i></div>
+        </div>
+    </div>
+<div class="subbanner-small" onclick="LinkTo();" style="position: relative; z-index: 0; background: none;">
+    <div class="subbanner-inner">
+        <div class="container">
+            <h1>农贸市场</h1>
+            <h2>Taojin Market</h2>
+        </div>
+    </div>
+<div class="backstretch" style="left: 0px; top: 0px; overflow: hidden; margin: 0px; padding: 0px; height: 353px; width: 1903px; z-index: -999998; position: absolute;"><img src="./images/banner-market02.png" style="position: absolute; margin: 0px; padding: 0px; border: none; width: 1903px; height: 356.813px; max-height: none; max-width: none; z-index: -999999; left: 0px; top: -1.90625px;"></div></div>
+<script src="./js/Banner.js" type="text/javascript"></script>
+<script type="text/javascript">
+    var images = ["./images/banner-market01.png", "./images/banner-market02.png"];
+    if (banners.length > 0) {
+        $(".subbanner-inner").hide();
+        $(".subbanner-small").attr("style", "cursor:pointer;");
+        images = [];
+        for (i = 0; i < banners.length; i++) {
+            images.push(banners[i]["img"]);
+        }
+    }
+
+    $(function () {
+        $('.subbanner-small').backstretch(images, { fade: 750, duration: 3000 });
+    });
+
+    function LinkTo() {
+        if (banners.length > 0) {
+            for (i = 0; i < banners.length; i++) {
+                if ($(".backstretch img").attr("src") == banners[i]["img"] && banners[i]["url"] != "") {
+                    window.location.href = banners[i]["url"];
+                }
+            }
+        }
+    }
+
+</script>
+
+<form action="./index.html" method="post"><input id="SubmitType" name="SubmitType" type="hidden" value=""><input data-val="true" data-val-number="字段 EId 必须是一个数字。" data-val-required="EId 字段是必需的。" id="EId" name="EId" type="hidden" value="0"><input id="EIds" name="EIds" type="hidden" value=""><input data-val="true" data-val-number="字段 PId 必须是一个数字。" data-val-required="PId 字段是必需的。" id="PId" name="PId" type="hidden" value="30099"><input id="ProductCode" name="ProductCode" type="hidden" value="800001"><div class="container">
+    <div class="kline">
+        <dl class="kline-head clear">
+                <dt class="color-1">
+                    <img src="./images/800001.png">
+                    <div class="price" id="FlushPrice1">0.01444</div>
+                    <div class="rise">
+                        <cite>涨额：<em id="FlushIncrease">0.00029</em></cite>
+                        <cite>涨幅：<em id="FlushIncreaseRate">2.05%</em></cite>
+                    </div>
+                </dt>
+
+            <dd>
+                <span>今开</span>
+                <cite>0.01415</cite>
+            </dd>
+            <dd>
+                <span>最低</span>
+                <cite id="FluashLowestPrice">0.01415</cite>
+            </dd>
+            <dd>
+                <span>最高</span>
+                <cite id="FluashHighestPrice">0.01444</cite>
+            </dd>
+            <dd>
+                <span>成交</span>
+                <cite id="FluashVolume">4906900</cite>
+            </dd>
+
+        </dl>
+        <div class="kline-main">
+            <div class="kline-switch">
+                <span id="mbtn" onclick="Minute('800001','./data/Fline.json'); $('.kline-switch span').removeClass('select'); $(this).addClass('select');">分时</span>
+                <span id="kbtn" onclick="Candle('800001','./data/Kline.json'); $('.kline-switch span').removeClass('select'); $(this).addClass('select');" class="select">日K</span>
+            </div>
+            <div class="flush-switch">自动刷新</div>
+            <div class="kline-ma">
+                <div class="ma05 clear"><i></i><b>MA05</b></div>
+                <div class="ma10 clear"><i></i><b>MA10</b></div>
+                <div class="ma30 clear"><i></i><b>MA30</b></div>
+            </div>
+            <div id="kline" class="kline-chart" data-highcharts-chart="0">
+                <div class="highcharts-container" id="highcharts-0" style="position: relative; overflow: hidden; width: 1200px; height: 400px; text-align: left; line-height: normal; z-index: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<div class="container">
+    <ul class="product-switch clear">
+
+            <li class="select"><a href="./index.html">种子</a></li>
+            <li><a href="./index.html">萝卜</a></li>
+            <li><a href="./index.html">苹果</a></li>
+            <li><a href="./index.html">辣椒</a></li>
+            <li><a href="./index.html">西瓜</a></li>
+            <li><a href="./index.html">南瓜</a></li>
+            <li><a href="./index.html">草莓</a></li>
+            <li><a href="./index.html">玫瑰</a></li>
+            <li><a href="./index.html">核桃</a></li>
+            <li><a href="./index.html">可可</a></li>
+            <li><a href="./index.html">人参</a></li>
+            <li><a href="./index.html">猕猴桃</a></li>
+            <li><a href="./index.html">雪莲花</a></li>
+            <li><a href="./index.html">开心果</a></li>
+        
+
+    </ul>
+</div>
+<div class="container clear">
+
+    <div class="trade-form">
+        <dl class="headbox clear">
+            
+                <dd><span>产品：</span><em class="color-1">种子</em></dd>
+                <dd><span>现价：</span><em class="color-1" id="FlushPrice2">0.01444</em></dd>
+            <dd><span>涨停：</span><em id="limitUp">0.01445</em></dd>
+            <dd><span>跌停：</span><em id="limitDown">0.01385</em></dd>
+        </dl>
+        <div class="formbox clear">
+            <div class="buy">
+                <h2 class="color-1"><i class="icon"></i>买入</h2>
+                <div class="form-group">
+                    <div class="form-group-addon">买入价格</div>
+                    <div class="form-group-input stretch">
+                        <input class="no-left-border no-right-border stretch" data-val="true" data-val-number="字段 BuyPrice 必须是一个数字。" data-val-required="BuyPrice 字段是必需的。" id="BuyPrice" name="BuyPrice" type="text" value="0" maxlength="7">
+                    </div>
+                    <div class="form-group-addon no-left-border form-group-addon-white">金币</div>
+                </div>
+                <div class="form-group">
+                    <div class="form-group-addon">买入数量</div>
+                    <div class="form-group-input stretch">
+                        <input class="stretch no-right-border no-left-border" data-val="true" data-val-number="字段 BuyCount 必须是一个数字。" id="BuyCount" name="BuyCount" type="text" value="">
+                    </div>
+                    <div class="form-group-input">
+                        <button toggle="#buytogglebox" onclick="return false">%<i class="icon"></i></button>
+                        <div class="togglebox togglebox-top togglebox-right" id="buytogglebox">
+                            <dl>
+                                <dd onclick="BuyPersent(1.00)">100%</dd>
+                                <dd onclick="BuyPersent(0.75)">75%</dd>
+                                <dd onclick="BuyPersent(0.50)">50%</dd>
+                                <dd onclick="BuyPersent(0.25)">25%</dd>
+                            </dl>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="form-group-addon">总计金币</div>
+
+                    <div class="form-group-input stretch">
+                        <input type="text" id="buytotalmoney" name="buytotalmoney" value="0.0000" class="stretch no-right-border no-left-border" maxlength="7">
+                    </div>
+                    
+                    <div class="form-group-addon no-left-border form-group-addon-white">金币</div>
+                </div>
+                <div class="form-group clear">
+                    <div class="text-left">
+                        可用金币:<span class="color-1" id="hasmoney">1000.00000</span>金币
+                    </div>
+                    <div class="text-right">
+                        手续费:<span class="color-1" id="buychargemoney">无</span>
+                    </div>
+                </div>
+                <div class="form-group no-padding-bottom">
+                    <input type="button" class="button-color-1 button-stretch" value="限价买入" onclick="Buy()">
+                </div>
+
+            </div>
+            <div class="sale">
+
+                <h2 class="color-4">
+                    <i class="icon"></i>卖出
+                </h2>
+                <div class="form-group">
+                    <div class="form-group-addon">卖出价格</div>
+                    <div class="form-group-input stretch">
+                        <input class="no-left-border no-right-border stretch" data-val="true" data-val-number="字段 SalePrice 必须是一个数字。" data-val-required="SalePrice 字段是必需的。" id="SalePrice" name="SalePrice" type="text" value="0" maxlength="7">
+                    </div>
+                    <div class="form-group-addon no-left-border form-group-addon-white">金币</div>
+                </div>
+                <div class="form-group">
+                    <div class="form-group-addon">卖出数量</div>
+                    <div class="form-group-input stretch">
+                        <input class="stretch no-right-border no-left-border" data-val="true" data-val-number="字段 SaleCount 必须是一个数字。" id="SaleCount" name="SaleCount" type="text" value="">
+                    </div>
+                    <div class="form-group-input">
+                        <button toggle="#saletogglebox" onclick="return false">% <i class="icon"></i></button>
+                        <div class="togglebox togglebox-top togglebox-right" id="saletogglebox">
+                            <dl>
+                                <dd onclick="SalePersent(1.00)">100%</dd>
+                                <dd onclick="SalePersent(0.75)">75%</dd>
+                                <dd onclick="SalePersent(0.50)">50%</dd>
+                                <dd onclick="SalePersent(0.25)">25%</dd>
+                            </dl>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="form-group-addon">总计金币</div>
+                    <div class="form-group-input stretch">
+                        <input type="text" id="saletotalmoney" name="saletotalmoney" value="0.0000" class="stretch no-right-border no-left-border" maxlength="7">
+                    </div>
+                    <div class="form-group-addon no-left-border form-group-addon-white">金币</div>
+                </div>
+                <div class="form-group clear">
+                    <div class="text-left">
+                        持有量:<span class="color-1" id="hasnumber">10000</span>
+                    </div>
+                    <div class="text-right">
+                        手续费:<span class="color-1" id="salechargemoney">0.000</span>金币
+                    </div>
+                </div>
+                <div class="form-group no-padding-bottom">
+                    <input type="button" class="button-color-4 button-stretch" value="限价卖出" onclick="Sale()">
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="trade-entrust">
+        <h3 class="color-1">委托信息</h3>
+        <div class="tablebox">
+            <table>
+                <thead>
+                    <tr>
+                        <th>买/卖</th>
+                        <th>价格</th>
+                        <th>委托量</th>
+                    </tr>
+                </thead>
+                <tbody id="entrust">
+                    <tr class="bgsale" style="cursor: pointer;">
+                        <td class="color-4">卖五</td>
+                                <td class="color-1"><em class="flipy">0.01520</em></td>
+                                    <td><em class="flipy">48800</em></td>
+                    </tr>
+                    <tr class="bgsale" style="cursor: pointer;">
+                        <td class="color-4">卖四</td>
+                                <td class="color-1"><em class="flipy">0.01477</em></td>
+                                    <td><em class="flipy">700</em></td>
+                    </tr>
+                    <tr class="bgsale" style="cursor: pointer;">
+                        <td class="color-4">卖三</td>
+                                <td class="color-1"><em class="flipy">0.01469</em></td>
+                                    <td><em class="flipy">1705300</em></td>
+                    </tr>
+                    <tr class="bgsale" style="cursor: pointer;">
+                        <td class="color-4">卖二</td>
+                                <td class="color-1"><em class="flipy">0.01467</em></td>
+                                    <td><em class="flipy">50000</em></td>
+                    </tr>
+                    <tr class="bgsale" style="cursor: pointer;">
+                        <td class="color-4">卖一</td>
+                                <td class="color-1"><em class="flipy">0.01446</em></td>
+                                    <td><em class="flipy">855100</em></td>
+                    </tr>
+
+                    <tr class="bgbuy" style="cursor: pointer;">
+                        <td class="color-1">买一</td>
+                                <td class="color-1"><em class="flipy">0.01445</em></td>
+                                    <td><em class="flipy">10300</em></td>
+                    </tr>
+                    <tr class="bgbuy" style="cursor: pointer;">
+                        <td class="color-1">买二</td>
+                                <td class="color-1"><em class="flipy">0.01444</em></td>
+                                    <td><em class="flipy">1300</em></td>
+                    </tr>
+                    <tr class="bgbuy" style="cursor: pointer;">
+                        <td class="color-1">买三</td>
+                                <td class="color-1"><em class="flipy">0.01443</em></td>
+                                    <td><em class="flipy">7200</em></td>
+                    </tr>
+                    <tr class="bgbuy" style="cursor: pointer;">
+                        <td class="color-1">买四</td>
+                                <td class="color-1"><em class="flipy">0.01441</em></td>
+                                    <td><em class="flipy">10400</em></td>
+                    </tr>
+                    <tr class="bgbuy" style="cursor: pointer;">
+                        <td class="color-1">买五</td>
+                                <td class="color-1"><em class="flipy">0.01440</em></td>
+                                    <td><em class="flipy">1000</em></td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+
+    </div>
+
+</div>
+<div class="container">
+    <div class="trade-entrust-my">
+        <h3 class="color-1">当前委托<span style="position:absolute; right:0; font-weight:normal; cursor:pointer;" onclick="FlushMyEntrust();">[刷新]</span></h3>
+        <div class="tablebox">
+            <table>
+                <thead>
+                    <tr>
+                        <th><span class="color-1" style="cursor:pointer;" onclick="Revokes()">[撤消]</span></th>
+                        <th>委托时间</th>
+                        <th>产品</th>
+                        <th>类型</th>
+                        <th>价格</th>
+                        <th>委托量</th>
+                        <th>已成交</th>
+                        <th>状态</th>
+                        <th>操作</th>
+                    </tr>
+                </thead>
+
+                <tbody id="MyEntrust0"><tr><td class="algin" colspan="9">没有查询到任何数据</td></tr></tbody>
+            </table>
+        </div>
+
+        <div class="thepager clear" id="thepager0" style="display: none;"></div>
+        
+
+    </div>
+
+    <div class="trade-entrust-my" style="padding-top:0;">
+        <h3 class="color-1">历史委托<span style="position:absolute; right:0; font-weight:normal; cursor:pointer;" onclick="FlushMyEntrust();">[刷新]</span></h3>
+        <div class="tablebox">
+            <table>
+                <thead>
+                    <tr>
+                        <th>委托时间</th>
+                        <th>产品</th>
+                        <th>类型</th>
+                        <th>价格</th>
+                        <th>委托量</th>
+                        <th>已成交</th>
+                        <th>状态</th>
+                        <th>操作</th>
+                    </tr>
+                </thead>
+
+                <tbody id="MyEntrust1"><tr><td class="algin" colspan="8">没有查询到任何数据</td></tr></tbody>
+            </table>
+        </div>
+
+        <div class="thepager clear" id="thepager1" style="display: none;"></div>
+
+    </div>
+
+</div>
+<div class="container padding-bottom">
+    <div class="message message-warn">
+        温馨提示：<br>
+        1.
+交易数量以整百倍进行交易。        <br>
+        2.
+种子出售手续费20%，每日涨跌额0.0003。        <br>
+        <!--
+        3.交易时段为每天09:00至次日00:00，特殊停盘除外。<br />
+        4.非交易时段无法进行买卖委托和委托撤销。<br />
+        -->
+        3.领取推广大礼包后，需将农场等级提升到4级后方可在淘金果园出售种子和果实。
+    </div>
+</div>
+</form>
+<script type="text/javascript">
+    //升值币精度
+    var intFormatFloat = 4;
+    if ('800001' == '900001') {
+        intFormatFloat = 4;
+    }
+    if ('800001' == '800001') {
+        intFormatFloat = 5;
+    }
+
+    if ('800001' == '800008' || '800001' == '800013') {
+        intFormatFloat = 2;
+    }
+
+
+    //是否开盘
+    var isOpen = false;
+    if ('800001' != '900001') {
+        isOpen = true;
+    }
+
+
+    var salecharge = 1;
+
+    if ('800001' == '800001') {
+        if (saletotalmoney <= 200) {
+            salecharge = "0.2";
+        } else if (saletotalmoney > 200 && saletotalmoney <= 500) {
+            salecharge = "0.2";
+        } else {
+            salecharge = "0.2";
+        }
+    }
+    else if ('800001' == '900001') {//升值币手续肥
+        salecharge = "0.01";
+    } else {
+        salecharge = "0.01";
+    }
+
+
+</script>
+
+<script src="./js/kline.js"></script>
+<script src="./js/plugin/highstock.js"></script>
+
+<script type="text/javascript">
+
+    var hasmoney = $("#hasmoney").html();		//余额
+    var hasnumber = $("#hasnumber").html();		//持有
+
+    var AutoFlush = false;
+
+
+
+
+    $(function () {
+
+        if('' != ""){
+            alert('');
+        }
+
+        $("#EIds").val("");
+
+        $(".flush-switch").click(function () {
+            if ($(this).hasClass("flush-switch-select")) {
+                $(this).removeClass("flush-switch-select");
+                $(this).addClass("flush-switch");
+                AutoFlush = false;
+            } else {
+                $(this).removeClass("flush-switch");
+                $(this).addClass("flush-switch-select");
+
+                //在交易时间段才刷新
+                var h = new Date().getHours();
+                if(h>=9)
+                {
+                    AutoFlush = true;
+                }
+
+            }
+        });
+
+        //Minute('800001', '/Market/Minute');
+        Candle('800001', './data/Kline.json')
+
+
+        setInterval("Flush()", 5000);
+        setInterval("FlushEntrust()", 5000);
+
+
+
+        GetMyEntrust(0,10,1,false);
+        setTimeout("GetMyEntrust(1,10,1,false)",100);
+
+        if (document.getElementById("entrust") != null) {
+
+            $("#entrust tr").css("cursor", "pointer");
+            $("#entrust tr").click(function () {
+
+                var price = $(this).find("td:nth-child(2) em").html();
+                if (price != "") {
+
+                    if (parseFloat(price) > parseFloat($("#limitUp").html())) {
+                        price = $("#limitUp").html();
+                    }
+                    if (parseFloat(price) < parseFloat($("#limitDown").html())) {
+                        price = $("#limitDown").html();
+                    }
+
+                    if ($(this).index() < 5) {
+                        $("#BuyPrice").val(price);
+                    }
+                    else {
+                        $("#SalePrice").val(price);
+                    }
+
+                }
+            });
+
+            $("#SaleCount").val("");
+            $("#BuyCount").val("");
+
+            $("#BuyPrice").attr("maxlength", $("#limitUp").html().length);
+            $("#SalePrice").attr("maxlength", $("#limitUp").html().length);
+
+            //设置默认价格
+
+            var Sale1 = parseFloat($("#entrust tr:nth-child(5) td:nth-child(2) em").html());
+            var Buy1 = parseFloat($("#entrust tr:nth-child(6) td:nth-child(2) em").html());
+            var LimitUpPrice = parseFloat($("#limitUp").html());
+            var LimitDownPrice = parseFloat($("#limitDown").html());
+
+
+            if (isNaN(Sale1) || Sale1 > LimitUpPrice || Sale1 < LimitDownPrice) {
+                $("#BuyPrice").val(LimitUpPrice.toFixed(intFormatFloat));
+            } else {
+                $("#BuyPrice").val(Sale1.toFixed(intFormatFloat));
+            }
+
+            if (isNaN(Buy1) || Buy1 > LimitUpPrice || Buy1 < LimitDownPrice) {
+                $("#SalePrice").val(LimitDownPrice.toFixed(intFormatFloat));
+            } else {
+                $("#SalePrice").val(Buy1.toFixed(intFormatFloat));
+            }
+
+        }
+
+    });
+
+    function FlushMyEntrust() {
+        GetMyEntrust(0,10,1,true);
+        setTimeout("GetMyEntrust(1,10,1,true)",100);
+    }
+
+    function GetMyEntrust(IsComplete, PageSize, CurrentPageIndex,FlushOther){
+
+
+        $.ajax({
+            type: "post",
+            url: "./data/dqwt.json",
+            datatype: "json",
+            data: { IsComplete: IsComplete,ProductCode:'800001', PageSize: PageSize, CurrentPageIndex: CurrentPageIndex },
+            beforeSend: function () {
+            },
+            complete: function () {
+            },
+            error: function (XMLHttpRequest, textStatus, errorThrown) {
+            },
+            success: function (result) {
+                var html = "";
+                if(FlushOther) {
+                    $("#hasmoney").html(result.HasMoney.toFixed(5));
+                    $("#hasnumber").html(result.HasNumber);
+                }
+
+                var items = result.List;
+                for(i=0;i<items.length;i++) {
+                    var item = items[i];
+
+
+                    var checked = ($("#EIds").val().indexOf("[" + item.Id + "]")!=-1) ? " checked=\"checked\"":"";
+                    var checktd = (IsComplete==0) ? "<td><input type=\"checkbox\"" + checked + " value=\"" + item.Id + "\" /></td>" : "";
+
+
+                    html = html + "<tr>";
+                    html = html + checktd;
+                    html = html + "<td>" + new Date(item.CreatedTime * 1000).Format("yyyy/M/d h:m:s") + "</td>";
+                    html = html + "<td>" + item.ProductName + "</td>";
+                    if (item.IsBuy) {
+                        html = html + "<td><span  class=\"color-1\">买</span></td>";
+                    }
+                    else {
+                        html = html + "<td><span  class=\"color-4\">卖</span></td>";
+                    }
+                    html = html + "<td>" + item.Price.toFixed(intFormatFloat) + "</td>";
+                    html = html + "<td>" + item.Count + "</td>";
+                    html = html + "<td>" + item.DeltCount + "</td>";
+                    html = html + "<td>" + item.StatusCHI + "</td>";
+
+                    if (item.Status == 0 || item.Status == 1) {
+                        html = html + "<td><a onclick=\"if(confirm('确定撤销?')) {Revoke('" + item.Id + "')}\">撤消</a></td>";
+                    }
+                    else {
+                        html = html + "<td>--</td>";
+                    }
+
+                    html = html + "</tr>";
+                }
+
+
+                var colspan = (IsComplete==0) ? 9 : 8;
+
+                if(html!="") {
+                    $("#MyEntrust" + IsComplete.toString()).html(html);
+                } else {
+                    $("#MyEntrust" + IsComplete.toString()).html("<tr><td class='algin' colspan='" + colspan + "'>没有查询到任何数据</td></tr>");
+                }
+
+                //分页
+                var PageCount = 0;
+                if(result.TotalRecordCount % result.PageSize == 0) {
+                    PageCount = parseInt(result.TotalRecordCount / result.PageSize);
+                } else {
+                    PageCount = parseInt(result.TotalRecordCount / result.PageSize + 1);
+                }
+
+                if(PageCount > 1) {
+                    var page = "";
+                    if(CurrentPageIndex>1){
+                        page = "<span onclick='GetMyEntrust(" + IsComplete + ",10," + parseInt(CurrentPageIndex - 1).toString() + ",false)'>上一页</span>";
+                    } else {
+                        page = "<span class='none'>上一页</span>";
+                    }
+
+                    page = page + "<cite>" + CurrentPageIndex.toString() + "/" + PageCount.toString() + "</cite>";
+
+                    if(CurrentPageIndex<PageCount){
+                        page = page + "<span onclick='GetMyEntrust(" + IsComplete + ",10," + parseInt(CurrentPageIndex + 1).toString()+",false)'>下一页</span>";
+                    } else {
+                        page = page + "<span class='none'>下一页</span>";
+                    }
+
+                    $("#thepager" + IsComplete.toString()).html(page);
+                } else {
+                    $("#thepager" + IsComplete.toString()).hide();
+                }
+
+
+
+
+                $("#MyEntrust0 tr input[type='checkbox']").click(function() {
+                    var eids =  $("#EIds").val();
+                    var eid = $(this).val();
+
+                    if($(this).is(':checked')){
+                        if(eids.indexOf("[" + eid + "]")==-1){
+                            $("#EIds").val(eids + "[" + eid + "]");
+                        }
+                    } else {
+                        $("#EIds").val(eids.split("[" + eid + "]").join(''));
+                    }
+
+                });
+
+            },
+
+        });
+    }
+
+    Date.prototype.Format = function (fmt) { //author: meizz
+        var o = {
+            "M+": this.getMonth() + 1, //月份
+            "d+": this.getDate(), //日
+            "h+": this.getHours(), //小时
+            "m+": this.getMinutes(), //分
+            "s+": this.getSeconds(), //秒
+            "q+": Math.floor((this.getMonth() + 3) / 3), //季度
+            "S": this.getMilliseconds() //毫秒
+        };
+        if (/(y+)/.test(fmt)) fmt = fmt.replace(RegExp.$1, (this.getFullYear() + "").substr(4 - RegExp.$1.length));
+        for (var k in o)
+            if (new RegExp("(" + k + ")").test(fmt)) fmt = fmt.replace(RegExp.$1, (RegExp.$1.length == 1) ? (o[k]) : (("00" + o[k]).substr(("" + o[k]).length)));
+        return fmt;
+    }
+
+
+    function Flush() {
+        if(AutoFlush) {
+            if ($('#mbtn').hasClass('select')) {
+                Minute('800001', './data/Fline.json');
+            }
+            else if ($('#kbtn').hasClass('select')) {
+                Candle('800001', './data/Kline.json');
+            }
+        }
+    }
+
+    function BuyPersent(per) {
+
+        if (per == 1.0) {
+            $("#BuyCount").css('color', '#FF0000');
+        } else {
+            $("#BuyCount").css('color', '#888');
+        }
+
+        var number = 0;
+        var price = $('#BuyPrice').val();
+
+        if (price == '' || price == 0) {
+            if ($("#entrust tr:nth-child(5) td:nth-child(2) em").html() != "") {
+                $('#BuyPrice').val($("#entrust tr:nth-child(5) td:nth-child(2) em").html());
+
+                alert($("#entrust tr:nth-child(5) td:nth-child(2) em").html());
+
+                price = $("#entrust tr:nth-child(5) td:nth-child(2) em").html();
+            }
+            else {
+                //$('#BuyPrice').val($("#limitDown").html());
+                //price = $("#limitDown").html();
+                $('#BuyPrice').val($("#FlushPrice1").html())
+                price = $("#FlushPrice1").html();
+            }
+        }
+
+
+        number = parseInt(hasmoney * per / price);
+        if ('800001' != '900001' && '800001' != '800008' &&  '800001' != '800013') {
+            number = parseInt(number / 100) * 100;
+        }
+
+        if ('800001' == '800008' || '800001' == '800013') {
+            number = parseInt(number / 10) * 10;
+        }
+
+        $('#BuyCount').val(number);
+        FlushBuyTotalMoney();
+    }
+
+    function SalePersent(per) {
+        if (per == 1.0) {
+            $("#SaleCount").css('color', '#FF0000');
+        } else {
+            $("#SaleCount").css('color', '#888');
+        }
+        var price = $('#SalePrice').val();
+        var number = 0;
+        if (price == '' || price == 0) {
+            if ($("#entrust tr:nth-child(6) td:nth-child(2) em").html() != "") {
+                $('#SalePrice').val($("#entrust tr:nth-child(6) td:nth-child(2) em").html());
+                price = $("#entrust tr:nth-child(6) td:nth-child(2) em").html();
+            }
+            else {
+                //$('#SalePrice').val($("#limitUp").html());
+                //price = $("#limitUp").html();
+                $('#SalePrice').val($("#FlushPrice1").html());
+                price = $("#FlushPrice1").html();
+            }
+        }
+        number = parseInt(hasnumber * per);
+        if ('800001' != '900001' && '800001' != '800008'  && '800001' != '800013') {
+            number = parseInt(number / 100) * 100;
+        }
+
+        if ('800001' == '800008' || '800001' == '800013') {
+            number = parseInt(number / 10) * 10;
+        }
+
+
+        $('#SaleCount').val(number);
+        FlushSaleTotalMoney();
+    }
+
+    function FlushBuyTotalMoney() {
+        var number = $("#BuyCount").val();
+        var price = $("#BuyPrice").val();
+        $('#buytotalmoney').val((number * price).toFixed(intFormatFloat));
+        $("#buytotalmoney").css('color', '#888');
+
+        if ($('#buytotalmoney').val() - hasmoney >=0) {
+            $("#buytotalmoney").css('color', '#FF0000');
+        }
+    }
+
+    function FlushSaleTotalMoney() {
+        var number = $("#SaleCount").val();
+        var price = $("#SalePrice").val();
+        var saletotalmoney = number * price;
+        $('#saletotalmoney').val(saletotalmoney.toFixed(intFormatFloat));
+
+        $('#salechargemoney').html((number * price * salecharge).toFixed(intFormatFloat));
+    }
+
+    function FormatFloatValue(value) {
+        value = value.replace(/[^\d.]/g, "");
+        value = value.replace(/^\./g, "");
+        value = value.replace(/\.{2,}/g, ".");
+        value = value.replace(".", "$#$").replace(/\./g, "").replace("$#$", ".");
+        if (value.indexOf(".") != -1) {
+            points = value.substring(value.indexOf("."));
+            value = value.replace(points, "");
+            if (points.length > intFormatFloat+1) {
+                points = points.substring(0, intFormatFloat+1);
+            }
+            value = value + points;
+        }
+        return value;
+    }
+
+    function FormatIntValue(value) {
+        value = value.replace(/[^\d]/g, "");
+        return value;
+    }
+
+    $("#BuyPrice").keyup(function () {
+        $(this).val(FormatFloatValue($(this).val()));
+        FlushBuyTotalMoney();
+    });
+
+    $("#BuyCount").keyup(function () {
+        $(this).val(FormatIntValue($(this).val()));
+        $(this).css('color', '#888');
+        var price = $("#BuyPrice").val();
+        var maxnumber = parseInt((hasmoney / price));
+        if ($(this).val() - maxnumber >= 0) {
+            $(this).css('color', '#FF0000');
+            $(this).val(maxnumber);
+        }
+        FlushBuyTotalMoney();
+    });
+
+    $("#BuyPrice").blur(function () {
+        if ($(this).val() != "") {
+            $(this).val(parseFloat($(this).val()).toFixed(intFormatFloat));
+        }
+        else if ($("#entrust tr:nth-child(5) td:nth-child(2) em").html() != "") {
+            $(this).val($("#entrust tr:nth-child(5) td:nth-child(2) em").html());
+        }
+        else {
+            // $(this).val($("#limitDown").html());
+            $(this).val($("#FlushPrice1").html());
+        }
+
+        if (parseFloat($(this).val()) > parseFloat($("#limitUp").html()) || parseFloat($(this).val()) < parseFloat($("#limitDown").html())) {
+            alert("委托价格不在今日涨跌停范围内");
+            if ($("#entrust tr:nth-child(5) td:nth-child(2) em").html() != "") {
+                $(this).val($("#entrust tr:nth-child(5) td:nth-child(2) em").html());
+            }
+            else {
+                //$(this).val($("#limitDown").html());
+                $(this).val($("#FlushPrice1").html());
+            }
+        }
+        FlushBuyTotalMoney();
+    });
+
+
+    $("#buytotalmoney").keyup(function () {
+
+        $(this).val(FormatFloatValue($(this).val()));
+
+        $(this).css('color', '#888');
+        if($(this).val() - hasmoney > 0){
+            $(this).css('color', '#FF0000');
+            $(this).val(hasmoney);
+        }
+
+        //改变买入数量文本框的值
+        var number = parseInt(parseFloat($(this).val()) / parseFloat($("#BuyPrice").val()) /100)*100;
+        if(!isNaN(number)){
+            $("#BuyCount").val(number);
+        } else {
+            $("#BuyCount").val("0");
+        }
+
+
+    });
+
+
+    $("#saletotalmoney").keyup(function () {
+
+        $(this).val(FormatFloatValue($(this).val()));
+
+        var number = parseInt(parseFloat($(this).val()) / parseFloat($("#SalePrice").val()) /100)*100;
+
+        if(!isNaN(number)){
+            $("#SaleCount").val(number);
+        } else {
+            $("#SaleCount").val("0");
+        }
+        //
+        $("#SaleCount").css('color', '#888');
+        $(this).css('color', '#888');
+        if(number > hasnumber){
+            $("#SaleCount").css('color', '#FF0000');
+            $("#SaleCount").val(parseInt(hasnumber/100)*100);
+            $(this).css('color', '#FF0000');
+            $(this).val(parseInt(hasnumber/100)*100*parseFloat($("#SalePrice").val()));
+        }
+
+        //
+
+        $("#salechargemoney").html((parseFloat($(this).val()) * salecharge).toFixed(intFormatFloat));
+
+    });
+
+
+    $("#SalePrice").keyup(function () {
+        $(this).val(FormatFloatValue($(this).val()));
+        FlushSaleTotalMoney();
+    });
+
+    $("#SaleCount").keyup(function () {
+
+        $(this).val(FormatIntValue($(this).val()));
+        $(this).css('color', '#888');
+
+        if ($(this).val() - hasnumber >= 0) {
+            $(this).css('color', '#FF0000');
+            $(this).val(hasnumber);
+        }
+        FlushSaleTotalMoney();
+    });
+
+    $("#SalePrice").blur(function () {
+        if ($(this).val() != "") {
+            $(this).val(parseFloat($(this).val()).toFixed(intFormatFloat));
+        }
+        else if ($("#entrust tr:nth-child(6) td:nth-child(2) em").html() != "") {
+            $(this).val($("#entrust tr:nth-child(6) td:nth-child(2) em").html());
+        }
+        else {
+            //$(this).val($("#limitUp").html());
+            $(this).val($("#FlushPrice1").html());
+        }
+        if (parseFloat($(this).val()) > parseFloat($("#limitUp").html()) || parseFloat($(this).val()) < parseFloat($("#limitDown").html())) {
+            alert("委托价格不在今日涨跌停范围内");
+
+            if ($("#entrust tr:nth-child(6) td:nth-child(2) em").html() != "") {
+                $(this).val($("#entrust tr:nth-child(6) td:nth-child(2) em").html());
+            }
+            else {
+                //$(this).val($("#limitUp").html());
+                $(this).val($("#FlushPrice1").html());
+            }
+        }
+        FlushSaleTotalMoney();
+    });
+
+
+
+    function FlushEntrust() {
+        //不在交易时间段不刷新
+        var h = new Date().getHours();
+        if(h<9)
+        {
+            return false;
+        }
+
+
+        $.ajax({
+            type: "post",
+            url: "./data/FlushEntrust.json",
+            data: { code: '800001' },
+            datatype: "json",
+            beforeSend: function () {
+
+            },
+            complete: function () {
+
+            },
+            success: function (result) {
+                var BuyList = result.data.BuyList;
+                var SaleList = result.data.SaleList;
+                var MarketInfo = result.data.MarketInfo;
+
+
+
+                //刷新数据
+                $("#FlushPrice1").html(MarketInfo.Price.toFixed(intFormatFloat));
+                $("#FlushPrice2").html(MarketInfo.Price.toFixed(intFormatFloat));
+                $("#FlushIncrease").html(MarketInfo.Increase.toFixed(intFormatFloat));
+                $("#FlushIncreaseRate").html((MarketInfo.IncreaseRate * 100).toFixed(2) + "%");
+                $("#FluashLowestPrice").html(MarketInfo.LowestPrice.toFixed(intFormatFloat));
+                $("#FluashHighestPrice").html(MarketInfo.HighestPrice.toFixed(intFormatFloat));
+                $("#FluashVolume").html(MarketInfo.Volume);
+
+
+                //刷新样式
+                if (MarketInfo.Price > MarketInfo.OpenPrice)
+                {
+                    $(".kline-head dt").attr("class", "color-1");
+                    $("#FlushPrice2").attr("class", "color-1");
+
+                }
+                else if (MarketInfo.Price < MarketInfo.OpenPrice)
+                {
+                    $(".kline-head dt").attr("class", "color-4");
+                    $("#FlushPrice2").attr("class", "color-4");
+                }
+                else
+                {
+                    $(".kline-head dt").removeAttr("class");
+                    $("#FlushPrice2").removeAttr("class");
+                }
+
+
+
+                //卖 第5行到第1行
+                for (i = 5; i >= 1; i--) {
+                    if (i <= 5 - SaleList.length) {
+                        $("#entrust tr:nth-child(" + i + ") td:nth-child(2)").html("<em></em>");
+                        $("#entrust tr:nth-child(" + i + ") td:nth-child(3)").html("<em></em>");
+                    }
+                }
+                for (i = 0; i < SaleList.length; i++) {
+                    $("#entrust tr:nth-child(" + (5 - i).toString() + ") td:nth-child(2)").html("<em>" + SaleList[i].Price.toFixed(intFormatFloat) + "</em>");
+                    $("#entrust tr:nth-child(" + (5 - i).toString() + ") td:nth-child(3)").html("<em>" + SaleList[i].Number + "</em>");
+
+                    if (SaleList[i].Price > MarketInfo.OpenPrice) {
+                        $("#entrust tr:nth-child(" + (5 - i).toString() + ") td:nth-child(2)").attr("class", "color-1");
+                    }
+                    else if (SaleList[i].Price < MarketInfo.OpenPrice) {
+                        $("#entrust tr:nth-child(" + (5 - i).toString() + ") td:nth-child(2)").attr("class", "color-4");
+                    } else {
+						$("#entrust tr:nth-child(" + (5 - i).toString() + ") td:nth-child(2)").removeAttr("class");
+					}
+
+
+                }
+                //买 第6行到第10行
+                for (i = 6; i <= 10; i++) {
+                    if (i >= 6 + BuyList.length) {
+                        $("#entrust tr:nth-child(" + i + ") td:nth-child(2)").html("<em></em>");
+                        $("#entrust tr:nth-child(" + i + ") td:nth-child(3)").html("<em></em>");
+                    }
+                }
+                for (i = 0; i < BuyList.length; i++) {
+                    $("#entrust tr:nth-child(" + (6 + i).toString() + ") td:nth-child(2)").html("<em>" + BuyList[i].Price.toFixed(intFormatFloat) + "</em>");
+                    $("#entrust tr:nth-child(" + (6 + i).toString() + ") td:nth-child(3)").html("<em>" + BuyList[i].Number + "</em>");
+
+                    if (BuyList[i].Price > MarketInfo.OpenPrice) {
+                        $("#entrust tr:nth-child(" + (6 + i).toString() + ") td:nth-child(2)").attr("class", "color-1");
+                    }
+                    else if (BuyList[i].Price < MarketInfo.OpenPrice) {
+                        $("#entrust tr:nth-child(" + (6 + i).toString() + ") td:nth-child(2)").attr("class", "color-4");
+                    } else {
+						$("#entrust tr:nth-child(" + (6 + i).toString() + ") td:nth-child(2)").removeAttr("class");
+					}
+                }
+
+
+                $("#entrust em").addClass("flipy");
+
+
+
+            },
+            error: function (XMLHttpRequest, textStatus, errorThrown) {
+                //alert("获取数据异常，请稍候再试！")
+            }
+        });
+    }
+
+
+    function Buy() {
+        var price = parseFloat($("#BuyPrice").val());
+        var upprice = parseFloat($("#limitUp").text());
+        var downprice = parseFloat($("#limitDown").text());
+        var number = parseInt($("#BuyCount").val());
+        var buytotalmoney = (number * price).toFixed(intFormatFloat);
+
+        if(isNaN(buytotalmoney)) {
+            buytotalmoney = 0;
+        }
+
+        $("#buytotalmoney").val(buytotalmoney);
+
+
+        if (price > upprice || price < downprice) {
+            alert("委托价格超过今日价格限制");
+            return false;
+        }
+
+        if ($("#BuyCount").val() == "" || $("#BuyCount").val() == 0) {
+            alert("交易数量不正确");
+            return false;
+        }
+
+        if ($("#BuyCount").val() % 100 != 0 && '800001' != '900001' && '800001' != '800008'  && '800001' != '800013') {
+            alert("交易数量不正确，必须是100的整倍。");
+            return false;
+        }
+
+        if ('800001' == '800008' || '800001' == '800013') {
+            if ($("#BuyCount").val() % 10 != 0) {
+                alert("交易数量不正确，必须是10的整倍。");
+                return false;
+            }
+        }
+
+
+        if ($("#BuyCount").val() * $("#BuyPrice").val() - hasmoney>0) {
+            alert("您的金币不足");
+            return false;
+        }
+
+
+
+
+
+        if (confirm('买入信息确认\n--------------\n价格：' + $('#BuyPrice').val() + '\n数量：' + $('#BuyCount').val() + '\n　　　' + A2C(number) + '\n金币：' + buytotalmoney))
+        {
+            $("#SubmitType").val("BUY");
+            $("#SaleCount").val("0");
+            $("form").submit();
+        }
+
+    }
+
+    function Sale() {
+
+        var number = parseInt($("#SaleCount").val());
+        var price = parseFloat($("#SalePrice").val());
+        var upprice = parseFloat($("#limitUp").text());
+        var downprice = parseFloat($("#limitDown").text());
+
+        var saletotalmoney = (number * price).toFixed(intFormatFloat);
+
+        if(isNaN(saletotalmoney)) {
+            saletotalmoney = 0;
+        }
+
+        $("#saletotalmoney").val(saletotalmoney);
+
+
+
+
+        var salechargemoney = (saletotalmoney * salecharge).toFixed(intFormatFloat);
+        $("#salechargemoney").html(salechargemoney);
+
+
+        if (price > upprice || price < downprice) {
+            alert("委托价格超过今日价格限制");
+            return false;
+        }
+
+        if ($("#SaleCount").val() == "" || $("#SaleCount").val() == 0) {
+            alert("交易数量不正确");
+            return false;
+        }
+
+        if ($("#SaleCount").val() % 100 != 0 && '800001' != '900001' && '800001' != '800008' && '800001' != '800013') {
+            alert("交易数量不正确，必须是100的整倍。");
+            return false;
+        }
+
+        if ('800001' == '800008'  || '800001' == '800013') {
+            if ($("#SaleCount").val() % 10 != 0) {
+                alert("交易数量不正确，必须是10的整倍。");
+                return false;
+            }
+        }
+
+
+        if ($("#SaleCount").val() - hasnumber >0) {
+            alert("您的持有量不足");
+            return false;
+        }
+
+        if (confirm('卖出信息确认\n--------------\n价　格：' + $('#SalePrice').val() + '\n数　量：' + $('#SaleCount').val() + '\n　　　　' + A2C(number) + '\n金　币：' + saletotalmoney.toString() + '\n手续费：' + salechargemoney.toString()))
+        {
+            $("#SubmitType").val("SALE");
+            $("#BuyCount").val("0");
+            $("form").submit();
+        }
+
+    }
+
+    function Revoke(eId) {
+        $("#EId").val(eId);
+        $("#SubmitType").val("REVOKE");
+
+        $("#BuyCount").val("0");
+        $("#SaleCount").val("0");
+        $("form").submit();
+    }
+
+
+    function Revokes(){
+
+            if($("#EIds").val()==""){
+                alert("请选择委托!");
+                return false;
+            }
+            if (confirm('您确定取消选中委托？'))
+            {
+                $("#SubmitType").val("REVOKEMORE");
+                $("#BuyCount").val("0");
+                $("#SaleCount").val("0");
+
+                $("form").submit();
+            }
+    }
+
+	//阿拉伯数字转换为简写汉字
+	function A2C(Num) {
+		for (i = Num.length - 1; i >= 0; i--) {
+			Num = Num.replace(",", "")//替换Num中的“,”
+			Num = Num.replace(" ", "")//替换Num中的空格
+		}
+		if (isNaN(Num)) { //验证输入的字符是否为数字
+			//alert("请检查小写金额是否正确");
+			return;
+		}
+		//字符处理完毕后开始转换，采用前后两部分分别转换
+		part = String(Num).split(".");
+		newchar = "";
+		//小数点前进行转化
+		for (i = part[0].length - 1; i >= 0; i--) {
+			if (part[0].length > 10) {
+				//alert("位数过大，无法计算");
+				return "";
+			}//若数量超过拾亿单位，提示
+			tmpnewchar = ""
+			perchar = part[0].charAt(i);
+			switch (perchar) {
+				case "0":  tmpnewchar = "零" + tmpnewchar;break;
+				case "1": tmpnewchar = "一" + tmpnewchar; break;
+				case "2": tmpnewchar = "二" + tmpnewchar; break;
+				case "3": tmpnewchar = "三" + tmpnewchar; break;
+				case "4": tmpnewchar = "四" + tmpnewchar; break;
+				case "5": tmpnewchar = "五" + tmpnewchar; break;
+				case "6": tmpnewchar = "六" + tmpnewchar; break;
+				case "7": tmpnewchar = "七" + tmpnewchar; break;
+				case "8": tmpnewchar = "八" + tmpnewchar; break;
+				case "9": tmpnewchar = "九" + tmpnewchar; break;
+			}
+			switch (part[0].length - i - 1) {
+				case 0: tmpnewchar = tmpnewchar; break;
+				case 1: if (perchar != 0) tmpnewchar = tmpnewchar + "十"; break;
+				case 2: if (perchar != 0) tmpnewchar = tmpnewchar + "百"; break;
+				case 3: if (perchar != 0) tmpnewchar = tmpnewchar + "千"; break;
+				case 4: tmpnewchar = tmpnewchar + "万"; break;
+				case 5: if (perchar != 0) tmpnewchar = tmpnewchar + "十"; break;
+				case 6: if (perchar != 0) tmpnewchar = tmpnewchar + "百"; break;
+				case 7: if (perchar != 0) tmpnewchar = tmpnewchar + "千"; break;
+				case 8: tmpnewchar = tmpnewchar + "亿"; break;
+				case 9: tmpnewchar = tmpnewchar + "十"; break;
+			}
+			newchar = tmpnewchar + newchar;
+		}
+		//替换所有无用汉字，直到没有此类无用的数字为止
+		while (newchar.search("零零") != -1 || newchar.search("零亿") != -1 || newchar.search("亿万") != -1 || newchar.search("零万") != -1) {
+			newchar = newchar.replace("零亿", "亿");
+			newchar = newchar.replace("亿万", "亿");
+			newchar = newchar.replace("零万", "万");
+			newchar = newchar.replace("零零", "零");
+		}
+		//替换以“一十”开头的，为“十”
+		if (newchar.indexOf("一十") == 0) {
+			newchar = newchar.substr(1);
+		}
+		//替换以“零”结尾的，为“”
+		if (newchar.lastIndexOf("零") == newchar.length - 1) {
+			newchar = newchar.substr(0, newchar.length - 1);
+		}
+		return newchar;
+	}
+</script>
+
+    <div class="footer">
+        <div class="rowbox container clear">
+            <dl class="links">
+                <dt>关于我们</dt>
+                <dd><a href="./index.html">公司介绍</a></dd>
+                <dd><a href="./index.html">联系我们</a></dd>
+                <dd><a href="./index.html">加入我们</a></dd>
+            </dl>
+            <dl class="links">
+                <dt>协议声明</dt>
+                <dd><a href="./index.html">用户协议</a></dd>
+                <!--
+                <dd><a href="/Static/Borrow">租借协议</a></dd>
+                <dd><a href="/Static/law">法律声明</a></dd>
+                <dd><a href="/Static/Charge">费率声明</a></dd>
+                -->
+            </dl>
+            <dl class="links">
+                <dt>帮助中心</dt>
+                <dd><a href="./index.html">常见问题</a></dd>
+                <dd><a href="./index.html">客服中心</a></dd>
+                <dd><a href="./index.html">家长监护</a></dd>
+            </dl>
+            <dl class="links">
+                <dt>Q7</dt>
+                <dd><a href="./index.html">游戏介绍</a></dd>
+                <dd><a href="./index.html">新手指南</a></dd>
+                <dd><a href="./index.html" target="_blank">进入游戏</a></dd>
+
+            </dl>
+            <div class="contact">
+                <div class="text">客服电话：028-85133527</div>
+                <div class="text">官方一群：335304316</div>
+                <div class="text">官方二群：563278742</div>
+                <div class="text">官方三群：592010954</div>
+                <div class="text">服务时间：工作日08:00~12:00 14:00~18:00</div>
+            </div>
+        </div>
+
+
+        <div class="container">
+            <dl class="gamealert clear">
+                <dt>健康游戏忠告：抵制不良游戏，拒绝盗版游戏；注意自我保护，谨防受骗上当；适度游戏益脑，沉迷游戏伤身；合理安排时间，享受健康生活。<a href="./index.html">未成年人家长监护系统</a></dt>
+                <dd><a target="_blank" href="./images/CC1.png"><img src="./images/CC1.png"></a></dd>
+                <dd><a target="_blank" href="./images/CC3.png"><img src="./images/CC3.png"></a></dd>
+                <dd><a target="_blank" href="./images/CC4.png"><img src="./images/CC4.png"></a></dd>
+                <dd><a target="_blank" href="./images/CC5.png"><img src="./images/CC5.png"></a></dd>
+                <dd><a target="_blank" href="./images/CC6.png"><img src="./images/CC6.png"></a></dd>
+                <dd><a target="_blank" href="./images/CC2.png"><img src="./images/CC2.png"></a></dd>
+
+            </dl>
+        </div>
+
+
+
+        <div class="bottom">
+            <div class="container clear">
+                <div class="copyright">安徽Q7科技有限公司 版权所有 <span>Copyright © 2016 Q7.com All Rights Reserved.</span></div>
+                <div class="icplink">晚ICP备16006040号-2</div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="qrcodex"></div>
+    <div class="downdiv">
+        <a href="./index.html" target="_blank">下载Q7</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./index.html" target="_blank">Q7视频</a>
+    </div>
+
+   
+
+
+</body></html>

@@ -1,0 +1,42 @@
+{
+  "remark":"当前委托数据",
+  "HasMoney": 45.469,
+  "HasNumber": 0,
+  "List": [
+    {
+      "Id": 44635271,
+      "IsQueued": false,
+      "AccountId": 0,
+      "ProductId": 0,
+      "ProductName": "南瓜",
+      "ProductCode": null,
+      "Price": 0.0494,
+      "IsBuy": true,
+      "Count": 1000,
+      "DeltCount": 0,
+      "CreatedTime": 1498125205,
+      "IsVailable": false,
+      "Status": 0,
+      "StatusCHI": "未成交"
+    },
+    {
+      "Id": 44635272,
+      "IsQueued": false,
+      "AccountId": 0,
+      "ProductId": 0,
+      "ProductName": "草莓",
+      "ProductCode": null,
+      "Price": 0.0494,
+      "IsBuy": true,
+      "Count": 1000,
+      "DeltCount": 0,
+      "CreatedTime": 1498125205,
+      "IsVailable": false,
+      "Status": 0,
+      "StatusCHI": "未成交"
+    }
+  ],
+  "CurrentPageIndex": 1,
+  "PageSize": 10,
+  "TotalRecordCount": 1
+}
