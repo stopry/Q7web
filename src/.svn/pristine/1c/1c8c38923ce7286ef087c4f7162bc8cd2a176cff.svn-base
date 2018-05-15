@@ -43,26 +43,22 @@
         // $("#ajaxloading").hide();//关闭加载
 
         
-        // //普通提示
-        // layer.msg(3222);
+        //普通提示
+        layer.msg(3222);
 
 
-        // //带可点击按钮的对话框
-        // layer.confirm('亲爱的玩家，您尚未登陆', {
-        //     btn: ['去登录','取消'] //按钮
-        // }, function(){
-        //     layer.msg('你点击了确定')
-        // }, function(){
-        //     layer.msg('你点击了取消')
-        // });
-    
+        //带可点击按钮的对话框
+        layer.confirm('亲爱的玩家，您尚未登陆', {
+            btn: ['去登录','取消'] //按钮
+        }, function(){
+            layer.msg('你点击了确定')
+        }, function(){
+            layer.msg('你点击了取消')
+        });
     })
 </script>
 
 <div id="ajaxloading">
-    <div class="gifImgWrap">
-        
-    </div>
 </div>
 
 <div class="header">

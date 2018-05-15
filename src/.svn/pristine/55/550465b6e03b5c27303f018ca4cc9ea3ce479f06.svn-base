@@ -39,7 +39,7 @@
 <script>
     $(function(){
 
-        // $("#ajaxloading").show();//显示加载
+        $("#ajaxloading").show();//显示加载
         // $("#ajaxloading").hide();//关闭加载
 
         
